@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on statKim Blog</title>
-    <link>/categories/</link>
+    <link>/blogdown_test/categories/</link>
     <description>Recent content in Categories on statKim Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
@@ -10,33 +10,33 @@
     <webMaster>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blogdown_test/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>programming</title>
-      <link>/categories/programming/</link>
+      <link>/blogdown_test/categories/programming/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
       <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/categories/programming/</guid>
+      <guid>/blogdown_test/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>/categories/projects/</link>
+      <link>/blogdown_test/categories/projects/</link>
       <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
       <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/categories/projects/</guid>
+      <guid>/blogdown_test/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>/blogdown_test/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/categories/r/</guid>
+      <guid>/blogdown_test/categories/r/</guid>
       <description></description>
     </item>
     

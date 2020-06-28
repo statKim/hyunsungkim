@@ -1,4 +1,4 @@
-baseurl = "https://statkim.github.io/"
+baseurl = "https://statkim.github.io/blogdown_test"
 title = "statKim Blog"
 languageCode = "ko-KR"
 
