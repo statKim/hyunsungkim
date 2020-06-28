@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on statKim</title>
-    <link>/categories/</link>
+    <link>/blogdown_test/categories/</link>
     <description>Recent content in Categories on statKim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blogdown_test/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>/blogdown_test/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>/blogdown_test/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>releases</title>
-      <link>/categories/releases/</link>
+      <link>/blogdown_test/categories/releases/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/releases/</guid>
+      <guid>/blogdown_test/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
-      <link>/categories/tranquilpeak/</link>
+      <link>/blogdown_test/categories/tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tranquilpeak/</guid>
+      <guid>/blogdown_test/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>showcase</title>
-      <link>/categories/showcase/</link>
+      <link>/blogdown_test/categories/showcase/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/showcase/</guid>
+      <guid>/blogdown_test/categories/showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>features</title>
-      <link>/categories/features/</link>
+      <link>/blogdown_test/categories/features/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/features/</guid>
+      <guid>/blogdown_test/categories/features/</guid>
       <description></description>
     </item>
     
