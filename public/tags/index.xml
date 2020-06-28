@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on statKim Blog</title>
-    <link>/blogdown_test/tags/</link>
-    <description>Recent content in Tags on statKim Blog</description>
+    <title>Tags on your-site-name</title>
+    <link>/your-site-address/tags/</link>
+    <description>Recent content in Tags on your-site-name</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <managingEditor>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</managingEditor>
-    <webMaster>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</webMaster>
+    <managingEditor>your-email (your-name)</managingEditor>
+    <webMaster>your-email (your-name)</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
     
-	<atom:link href="/blogdown_test/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/your-site-address/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo</title>
-      <link>/blogdown_test/tags/hugo/</link>
+      <link>/your-site-address/tags/hugo/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/hugo/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lubang</title>
-      <link>/blogdown_test/tags/lubang/</link>
+      <link>/your-site-address/tags/lubang/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/lubang/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/lubang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>/blogdown_test/tags/project/</link>
+      <link>/your-site-address/tags/project/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/project/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag</title>
-      <link>/blogdown_test/tags/tag/</link>
+      <link>/your-site-address/tags/tag/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/tag/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/tag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>/blogdown_test/tags/theme/</link>
+      <link>/your-site-address/tags/theme/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/theme/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/blogdown_test/tags/plot/</link>
+      <link>/your-site-address/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/plot/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/blogdown_test/tags/r-markdown/</link>
+      <link>/your-site-address/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/r-markdown/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/blogdown_test/tags/regression/</link>
+      <link>/your-site-address/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/tags/regression/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/tags/regression/</guid>
       <description></description>
     </item>
     

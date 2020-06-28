@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on statKim Blog</title>
-    <link>/blogdown_test/categories/</link>
-    <description>Recent content in Categories on statKim Blog</description>
+    <title>Categories on your-site-name</title>
+    <link>/your-site-address/categories/</link>
+    <description>Recent content in Categories on your-site-name</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <managingEditor>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</managingEditor>
-    <webMaster>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</webMaster>
+    <managingEditor>your-email (your-name)</managingEditor>
+    <webMaster>your-email (your-name)</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
     
-	<atom:link href="/blogdown_test/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/your-site-address/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>programming</title>
-      <link>/blogdown_test/categories/programming/</link>
+      <link>/your-site-address/categories/programming/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/categories/programming/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>/blogdown_test/categories/projects/</link>
+      <link>/your-site-address/categories/projects/</link>
       <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/categories/projects/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/blogdown_test/categories/r/</link>
+      <link>/your-site-address/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>hyunsung1021@gmail.com (statKim (HYUNSUNG, KIM))</author>
-      <guid>/blogdown_test/categories/r/</guid>
+      <author>your-email (your-name)</author>
+      <guid>/your-site-address/categories/r/</guid>
       <description></description>
     </item>
     

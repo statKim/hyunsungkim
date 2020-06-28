@@ -1,14 +1,14 @@
-baseurl = "https://statkim.github.io/blogdown_test"
-title = "statKim Blog"
+baseurl = "your-site-address"
+title = "your-site-name"
 languageCode = "ko-KR"
 
 theme = "hugo-hello-programmer-theme"
 
 paginate = 2
 
-disqusShortname = "statKim"
+disqusShortname = "XXXX"
 googleAnalytics = "UA-XXXXXXXX-X"
 
 [author]
-    name = "statKim (HYUNSUNG, KIM)"
-    email = "hyunsung1021@gmail.com"
+    name = "your-name"
+    email = "your-email"
