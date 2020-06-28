@@ -1,42 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on statKim Blog</title>
-    <link>/blogdown_test/categories/</link>
-    <description>Recent content in Categories on statKim Blog</description>
+    <title>Categories on statKim</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on statKim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-KR</language>
-    <managingEditor>your-email (your-name)</managingEditor>
-    <webMaster>your-email (your-name)</webMaster>
-    <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/blogdown_test/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>programming</title>
-      <link>/blogdown_test/categories/programming/</link>
-      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
-      <author>your-email (your-name)</author>
-      <guid>/blogdown_test/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>/blogdown_test/categories/projects/</link>
-      <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
-      <author>your-email (your-name)</author>
-      <guid>/blogdown_test/categories/projects/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>R</title>
-      <link>/blogdown_test/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>your-email (your-name)</author>
-      <guid>/blogdown_test/categories/r/</guid>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>releases</title>
+      <link>/categories/releases/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tranquilpeak</title>
+      <link>/categories/tranquilpeak/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>showcase</title>
+      <link>/categories/showcase/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/showcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>/categories/features/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/features/</guid>
       <description></description>
     </item>
     
