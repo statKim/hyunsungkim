@@ -1,1003 +1,4 @@
-[0m[0K]0;:/c/Users/hyunsungKim/ITStudy/blogdown_test[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-[0K[?25hREADME.md  blogdown_test.Rproj  config.toml  content  index.Rmd  public  static  themes[0K[?25l
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Ks[0K[7G[6G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0m[0K
-$[0K[3G[?25h[?25l[9A[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0K
-[0m$ ls[0K
-README.md  blogdown_test.Rproj  config.toml[0K
- content  index.Rmd  public  static  themes[0K
-[0K
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0K
-[0m$ git status[0K
-fatal: not a git repository (or any of the [0Kp
-arent directories): .git[0K
-[0K
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hInitialized empty Git repository in C:/User[0Ks[?25l
-/hyunsungKim/ITStudy/blogdown_test/.git/[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rp[0Kr[?25l
-oj.user/F945E687/pcs/files-pane.pper.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rp[0Kr[?25l
-oj.user/F945E687/pcs/source-pane.pper.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/pcs/windowlayoutstate.pper[0K.
-[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/pcs/workbench-pane.pper.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/rmd-outputs.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/prop/23B444E2.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/prop/C0A6E0F3.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/prop/DD6D982F.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/prop/DE378F46.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/prop/DEC6391D.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/prop/INDEX.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/s-D44AC487/17728B1[0KC
--contents.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr[1G[?25h[?25l
-oj.user/F945E687/sources/s-D44AC487/21E3A4A[0KD
-.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/s-D44AC487/21E3A4A[0KD
--contents.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/s-D44AC487/617DF41[0KB
--contents.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/F945E687/sources/s-D44AC487/EFDD3DC[0K4
--contents.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rp[0Kr
-oj.user/shared/notebooks/paths.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in con[0Kt
-ent/post/2015-07-23-r-rmarkdown.Rmd.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in con[0Kt
-ent/project/project_sample.md.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/404.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/categories/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in pub[0Kl[?25l
-ic/categories/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/categories/programming/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/categories/programming/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/categories/projects/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in pub[0Kl[?25l
-ic/categories/projects/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/css/styles.css.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl[1G[?25h[?25l
-ic/post/2015-07-23-r-rmarkdown.Rmd.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/post/2015-07-23-r-rmarkdown/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/post/post_sample/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/project/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/project/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/project/project_sample/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/sitemap.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/hugo/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/hugo/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/lubang/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/lubang/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/project/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/project/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in pub[0Kl[?25l
-ic/tags/tag/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/tag/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/theme/index.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in pub[0Kl
-ic/tags/theme/index.xml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km[1G[?25h[?25l
-es/hugo-hello-programmer-theme/.gitignore.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/LICENSE.md.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/README.md.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/archetypes/d[0Ke
-fault.md.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/exampleSite/[0Kc
-onfig.toml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/exampleSite/[0Kc
-ontent/post/post_sample.md.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/exampleSite/[0Kc
-ontent/project/project_sample.md.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/i18n/en.toml[0K.
-[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in the[0Km[?25l
-es/hugo-hello-programmer-theme/i18n/kr.toml[0K.
-[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in the[0Km[?25l
-es/hugo-hello-programmer-theme/layouts/404.[0Kh
-tml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/_def[0Ka
-ult/list.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in the[0Km[?25l
-es/hugo-hello-programmer-theme/layouts/_def[0Ka
-ult/single.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/_def[0Ka
-ult/summary.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/cate[0Kg
-ories/terms.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/inde[0Kx
-.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/part[0Ki
-als/footer.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/part[0Ki
-als/header.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/part[0Ki
-als/pagination.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in the[0Km[?25l
-es/hugo-hello-programmer-theme/layouts/part[0Ki
-als/post.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/layouts/tags[0K/
-terms.html.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km
-es/hugo-hello-programmer-theme/static/css/s[0Kt
-yles.css.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-warning: LF will be replaced by CRLF in the[0Km[1G[?25h[?25l
-es/hugo-hello-programmer-theme/theme.toml.[0K
-The file will have its original line ending[0Ks
- in your working directory.[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K"[0K[?25l$ git commit -m[0K[?25h[17G[?25l$ git commit -m "[0K[?25hf[0Ki[0Kr[0Ks[0Kt[0K[24G[23G[?25l$ git commit -m "firs[0K[?25h[?25l$ git commit -m "fir[0K[?25h[?25l$ git commit -m "fi[0K[?25h[?25l$ git commit -m "f[0K[?25h[?25l$ git commit -m "[0K[?25hh[0Ku[0Kg[0Ko[0K[23G[22G[?25l$ git commit -m "hug[0K[?25h[?25l$ git commit -m "hu[0K[?25h[?25l$ git commit -m "h[0K[?25h[?25l$ git commit -m "[0K[?25hb[0Kl[0Ko[0Kg[0Kd[0Ko[0Kw[0Kn[0K[27G[?25l$ git commit -m "blogdown b[0K[?25hl[0Ko[0Kg[0K"[0K[?25l
-[0K[?25h[?25l[master (root-commit) 7ca49e9] blogdown blo[0Kg[1G[?25h[?25l
-[0K
- 122 files changed, 5488 insertions(+)[0K
- create mode 100644 .Rproj.user/F945E687/co[0Kn
-sole06/24F840A8[0K
- create mode 100644 .Rproj.user/F945E687/co[0Kn
-sole06/INDEX001[0K
- create mode 100644 .Rproj.user/F945E687/pc[0Ks
-/files-pane.pper[0K
- create mode 100644 .Rproj.user/F945E687/pc[0Ks
-/source-pane.pper[0K
- create mode 100644 .Rproj.user/F945E687/pc[0Ks
-/windowlayoutstate.pper[0K
- create mode 100644 .Rproj.user/F945E687/pc[0Ks
-/workbench-pane.pper[0K
- create mode 100644 .Rproj.user/F945E687/rm[0Kd
--outputs[0K
- create mode 100644 .Rproj.user/F945E687/sa[0Kv
-ed_source_markers[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/prop/23B444E2[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/prop/C0A6E0F3[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/prop/DD6D982F[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/prop/DE378F46[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/prop/DEC6391D[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/prop/INDEX[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/17728B1C-contents[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/21E3A4AD[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/21E3A4AD-contents[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/35EF2C12-contents[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/617DF41B-contents[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/EFDD3DC4-contents[0K
- create mode 100644 .Rproj.user/F945E687/so[0Ku
-rces/s-D44AC487/lock_file[0K
- create mode 100644 .Rproj.user/shared/note[0Kb
-ooks/patch-chunk-names[0K
- create mode 100644 .Rproj.user/shared/note[0Kb
-ooks/paths[0K
- create mode 100644 README.md[0K
- create mode 100644 blogdown_test.Rproj[0K
- create mode 100644 config.toml[0K
- create mode 100644 content/post/2015-07-23[0K-
-r-rmarkdown.Rmd[0K
- create mode 100644 content/post/2015-07-23[0K-
-r-rmarkdown.html[0K
- create mode 100644 content/post/post_sampl[0Ke
-.md[0K
- create mode 100644 content/project/project[0K_
-sample.md[0K
- create mode 100644 index.Rmd[0K
- create mode 100644 public/.gitkeep[0K
- create mode 100644 public/404.html[0K
- create mode 100644 public/categories/index[0K.
-html[0K
- create mode 100644 public/categories/index[0K.
-xml[0K
- create mode 100644 public/categories/progr[0Ka
-mming/index.html[0K
- create mode 100644 public/categories/progr[0Ka
-mming/index.xml[0K
- create mode 100644 public/categories/progr[0Ka
-mming/page/1/index.html[0K
- create mode 100644 public/categories/proje[0Kc
-ts/index.html[0K
- create mode 100644 public/categories/proje[0Kc
-ts/index.xml[0K
- create mode 100644 public/categories/proje[0Kc
-ts/page/1/index.html[0K
- create mode 100644 public/categories/r/ind[0Ke
-x.html[0K
- create mode 100644 public/categories/r/ind[0Ke
-x.xml[0K
- create mode 100644 public/categories/r/pag[0Ke
-/1/index.html[0K
- create mode 100644 public/css/styles.css[0K
- create mode 100644 public/favicon.ico[0K
- create mode 100644 public/images/logo.png[0K
- create mode 100644 public/images/post-titl[0Ke
--icon.png[0K
- create mode 100644 public/images/thumbnail[0K.
-png[0K
- create mode 100644 public/index.html[0K
- create mode 100644 public/index.xml[0K
- create mode 100644 public/page/1/index.htm[0Kl
-[0K
- create mode 100644 public/page/2/index.htm[0Kl
-[0K
- create mode 100644 public/post/2015-07-23-[0Kr
--rmarkdown.Rmd[0K
- create mode 100644 public/post/2015-07-23-[0Kr
--rmarkdown/index.html[0K
- create mode 100644 public/post/2015-07-23-[0Kr
--rmarkdown_files/figure-html/pie-1.png[0K
- create mode 100644 public/post/index.html[0K
- create mode 100644 public/post/index.xml[0K
- create mode 100644 public/post/page/1/inde[0Kx
-.html[0K
- create mode 100644 public/post/post_sample[0K/
-index.html[0K
- create mode 100644 public/project/index.ht[0Km
-l[0K
- create mode 100644 public/project/index.xm[0Kl
-[0K
- create mode 100644 public/project/page/1/i[0Kn
-dex.html[0K
- create mode 100644 public/project/project_[0Ks
-ample/index.html[0K
- create mode 100644 public/sitemap.xml[0K
- create mode 100644 public/tags/hugo/index.[0Kh
-tml[0K
- create mode 100644 public/tags/hugo/index.[0Kx
-ml[0K
- create mode 100644 public/tags/hugo/page/1[0K/
-index.html[0K
- create mode 100644 public/tags/index.html[0K
- create mode 100644 public/tags/index.xml[0K
- create mode 100644 public/tags/lubang/inde[0Kx
-.html[0K
- create mode 100644 public/tags/lubang/inde[0Kx
-.xml[0K
- create mode 100644 public/tags/lubang/page[0K/
-1/index.html[0K
- create mode 100644 public/tags/plot/index.[0Kh
-tml[0K
- create mode 100644 public/tags/plot/index.[0Kx
-ml[0K
- create mode 100644 public/tags/plot/page/1[0K/
-index.html[0K
- create mode 100644 public/tags/project/ind[0Ke
-x.html[0K
- create mode 100644 public/tags/project/ind[0Ke
-x.xml[0K
- create mode 100644 public/tags/project/pag[0Ke
-/1/index.html[0K
- create mode 100644 public/tags/r-markdown/[0Ki
-ndex.html[0K
- create mode 100644 public/tags/r-markdown/[0Ki
-ndex.xml[0K
- create mode 100644 public/tags/r-markdown/[0Kp
-age/1/index.html[0K
- create mode 100644 public/tags/regression/[0Ki
-ndex.html[0K
- create mode 100644 public/tags/regression/[0Ki
-ndex.xml[0K
- create mode 100644 public/tags/regression/[0Kp
-age/1/index.html[0K
- create mode 100644 public/tags/tag/index.h[0Kt
-ml[0K
- create mode 100644 public/tags/tag/index.x[0Km
-l[0K
- create mode 100644 public/tags/tag/page/1/[0Ki
-ndex.html[0K
- create mode 100644 public/tags/theme/index[0K.
-html[0K
- create mode 100644 public/tags/theme/index[0K.
-xml[0K
- create mode 100644 public/tags/theme/page/[0K1
-/index.html[0K
- create mode 100644 static/.gitkeep[0K
- create mode 100644 static/post/2015-07-23-[0Kr
--rmarkdown_files/figure-html/pie-1.png[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/.gitignore[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/LICENSE.md[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/README.md[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/archetypes/default.md[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/exampleSite/config.toml[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/exampleSite/content/post/post_sa[0Km
-ple.md[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/exampleSite/content/project/proj[0Ke
-ct_sample.md[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/exampleSite/static/.gitkeep[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/i18n/en.toml[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/i18n/kr.toml[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/images/screenshot.png[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/images/tn.png[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/404.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/_default/list.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/_default/single.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/_default/summary.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/categories/terms.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/index.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/partials/footer.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/partials/header.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/partials/pagination.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/partials/post.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/layouts/tags/terms.html[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/static/css/styles.css[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/static/favicon.ico[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/static/images/logo.png[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/static/images/post-title-icon.pn[0Kg
-[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/static/images/thumbnail.png[0K
- create mode 100644 themes/hugo-hello-progr[0Ka
-mmer-theme/theme.toml[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ ^V[0K[?25h[?25l$[0K[3G[?25h[?25l$ git remote add origin https://github.com/[0K
-statKim/blogdown_test.git[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[22G[?25l$ git push -u origin m[0K[22G[?25h[23G[?25l$ git push -u origin ma[0K[?25hs[0Kt[0K[?25le[0K[26G[?25h[27G[?25l$ git push -u origin master[0K[?25h[?25l
-[0K[?25hEnumerating objects: 188, done.[0K[?25l
-Counting objects:  25% (47/188)[0K[1G[?25h[?25lCounting objects:  52% (98/188)[0K[1G[?25h[?25lCounting objects:  84% (158/188)[0K[1G[?25hCounting objects: 100% (188/188), done.[0K[?25l
-Delta compression using up to 4 threads.[0K
-Compressing objects:  11% (16/139)[0K[1G[?25h[?25lCompressing objects:  51% (71/139)[0K[1G[?25h[?25lCompressing objects:  89% (124/139)[0K[1G[?25hCompressing objects: 100% (139/139), done.[0K[?25l
-Writing objects:  14% (27/188)[0K[1G[?25h[?25lWriting objects:  52% (99/188)[0K[1G[?25h[?25lWriting objects:  89% (168/188)[0K[1G[?25h[?25lWriting objects:  90% (170/188)[0K[1G[?25hWriting objects: 100% (188/188), 837.10 KiB[0K[?25l
-| 5.73 MiB/s, done.[0K
-Total 188 (delta 48), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (48/48), don[0Ke[?25l
-.[0K
-[0K[?25hTo https://github.com/statKim/blogdown_test[0K.[?25l
-git[0K
- * [new branch]      master -> master[0K
-[0K[?25hBranch 'master' set up to track remote bran[0Kc[?25l
-h 'master' from 'origin'.[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
-test[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[1;1H[2J[?25l[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/F945E687/console06/24F840A8[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/prop/C0A6E0F3[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/prop/DEC6391D[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/prop/INDEX[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD-contents[0m[0K
-        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
-        [0;31mmodified:   config.toml[0m[0K
-        [0;31mmodified:   public/categories/index.xml[0m[0K
-        [0;31mmodified:   public/categories/programming/index.xml[0m[0K
-        [0;31mmodified:   public/categories/projects/index.xml[0m[0K
-        [0;31mmodified:   public/categories/r/index.xml[0m[0K
-        [0;31mmodified:   public/index.xml[0m[0K
-        [0;31mmodified:   public/post/index.xml[0m[0K
-        [0;31mmodified:   public/post/post_sample/index.html[0m[0K
-        [0;31mmodified:   public/project/index.xml[0m[0K
-        [0;31mmodified:   public/project/project_sample/index.html[0m[0K
-        [0;31mmodified:   public/tags/hugo/index.xml[0m[0K[?25h[?25l
-        [0;31mmodified:   public/tags/index.xml[0m[0K
-        [0;31mmodified:   public/tags/lubang/index.xml[0m[0K
-        [0;31mmodified:   public/tags/plot/index.xml[0m[0K
-        [0;31mmodified:   public/tags/project/index.xml[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/index.xml[0m[0K
-        [0;31mmodified:   public/tags/regression/index.xml[0m[0K
-        [0;31mmodified:   public/tags/tag/index.xml[0m[0K
-        [0;31mmodified:   public/tags/theme/index.xml[0m[0K
-        [0;31mmodified:   themes/hugo-hello-programmer-theme/theme.toml[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/F945E687/sources/prop/2108B063[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/prop/3CBB5E1C[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/prop/9CC6F5E7[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/s-D44AC487/1F5C8987-contents[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/s-D44AC487/5C2E4361-contents[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/s-D44AC487/C4F39EE5-contents[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/s-D44AC487/DC2349FB-contents[0m[0K
-        [0;31m.Rproj.user/F945E687/sources/s-D44AC487/F889FEFE-contents[0m[0K
-        [0;31mdocs/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/C0A6E0F3.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/DEC6391D.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/INDEX.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD-cont[0Ke
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/programming/index.xml.[0K[1G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/projects/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/post_sample/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in public/project/project_sample/index.html.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/hugo/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/lubang/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/tag/index.xml.[0K[1G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/theme/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/2108B063.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/3CBB5E1C.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/9CC6F5E7.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/1F5C8987-cont[0Ke
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E[0K[?25h687/sources/s-D44AC487/5C2E4361-cont[0Ke[?25l
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/C4F39EE5-cont[0Ke
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/DC2349FB-cont[0Ke
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF[0K[38G[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/F889FEFE-cont[0Ke
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/404.html.[0K
-The file will have its original line endings in your work[0K[?25hing directory.[0K[?25l
-warning: LF will be replaced by CRLF in docs/categories/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/categories/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/categories/programming/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/categories/programming/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/categories/projects/index.html.[0K[1G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/categories/projects/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/css/styles.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in docs/post/2015-07-23-r-rmarkdown.Rmd.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/post/2015-07-23-r-rmarkdown/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/post/post_sample/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/project/project_sample/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/sitemap.xml.[0K[2G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/hugo/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/hugo/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/lubang/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/lubang/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in docs/tags/tag/index.html.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/tag/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/theme/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in docs/tags/theme/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h[[0KM[0Ko[0Kd[0K[?25li[0K[22G[?25h[23G[?25l$ git commit -m "[Modif[0K[23G[?25h[24G[?25l$ git commit -m "[Modify[0K[24G[?25h[25G[?25l$ git commit -m "[Modify][0K[?25h[?25l$ git commit -m "[Modify[0K[?25h[?25l$ git commit -m "[Modif[0K[?25h[?25l$ git commit -m "[Modi[0K[?25h[?25l$ git commit -m "[Mod[0K[?25h[?25l$ git commit -m "[Mo[0K[?25h[?25l$ git commit -m "[M[0K[?25h[?25l$ git commit -m "[[0K[20G[?25h[19G[?25l$ git commit -m "[0K[?25hd[0Ko[0Kc[0Ks[0K[?25l$ git commit -m "doc[0K[?25h[?25l$ git commit -m "do[0K[21G[?25h[20G[?25l$ git commit -m "d[0K[?25h[?25l$ git commit -m "[0K[?25hp[0Ku[0Kb[0K[?25ll[0K[21G[?25h[22G[?25l$ git commit -m "publi[0K[?25hc[0K[25G[?25l$ git commit -m "public t[0K[?25ho[0K[28G[?25l$ git commit -m "public to d[0K[?25ho[0Kc[0Ks[0K"[0K[?25l
-[0K[?25h[master a0941f7] public to docs[0K[?25l
- 95 files changed, 4837 insertions(+), 74 deletions(-)[0K
- create mode 100644 .Rproj.user/F945E687/sources/prop/2108B063[0K
- create mode 100644 .Rproj.user/F945E687/sources/prop/3CBB5E1C[0K
- create mode 100644 .Rproj.user/F945E687/sources/prop/9CC6F5E7[0K
- create mode 100644 .Rproj.user/F945E687/sources/s-D44AC487/1F5C8987-contents[0K
- create mode 100644 .Rproj.user/F945E687/sources/s-D44AC487/5C2E4361-contents[0K
- create mode 100644 .Rproj.user/F945E687/sources/s-D44AC487/C4F39EE5-contents[0K
- create mode 100644 .Rproj.user/F945E687/sources/s-D44AC487/DC2349FB-contents[0K
- create mode 100644 .Rproj.user/F945E687/sources/s-D44AC487/F889FEFE-contents[0K
- create mode 100644 docs/.gitkeep[0K
- create mode 100644 docs/404.html[0K
- create mode 100644 docs/categories/index.html[0K
- create mode 100644 docs/categories/index.xml[0K
- create mode 100644 docs/categories/programming/index.html[0K
- create mode 100644 docs/categories/programming/index.xml[0K
- create mode 100644 docs/categories/programming/page/1/index.html[0K
- create mode 100644 docs/categories/projects/index.html[0K
- create mode 100644 docs/categories/projects/index.xml[0K
- create mode 100644 docs/categories/projects/page/1/index.html[0K
- create mode 100644 docs/categories/r/index.html[0K
- create mode 100644 docs/categories/r/index.xml[0K
- create mode 100644 docs/categories/r/page/1/index.html[0K
- create mode 100644 docs/css/styles.css[0K
- create mode 100644 docs/favicon.ico[0K
- create mode 100644 docs/images/logo.png[0K
- create mode 100644 docs/images/post-title-icon.png[0K
- create mode 100644 docs/images/thumbnail.png[0K
- create mode 100644 docs/index.html[0K
- create mode 100644 docs/index.xml[0K
- create mode 100644 docs/page/1/index.html[0K
- create mode 100644 docs/page/2/index.html[0K
- create mode 100644 docs/post/2015-07-23-r-rmarkdown.Rmd[0K
- create mode 100644 docs/post/2015-07-23-r-rmarkdown/index.html[0K
- create mode 100644 docs/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0K
- create mode 100644 docs/post/index.html[0K
- create mode 100644 docs/post/index.xml[0K
- create mode 100644 docs/post/page/1/index.html[0K
- create mode 100644 docs/post/post_sample/index.html[0K
- create mode 100644 docs/project/index.html[0K
- create mode 100644 docs/project/index.xml[0K
- create mode 100644 docs/project/page/1/index.html[0K
- create mode 100644 docs/project/project_sample/index.html[0K
- create mode 100644 docs/sitemap.xml[0K
- create mode 100644 docs/tags/hugo/index.html[0K
- create mode 100644 docs/tags/hugo/index.xml[0K
- create mode 100644 docs/tags/hugo/page/1/index.html[0K
- create mode 100644 docs/tags/index.html[0K
- create mode 100644 docs/tags/index.xml[0K
- create mode 100644 docs/tags/lubang/index.html[0K
- create mode 100644 docs/tags/lubang/index.xml[0K
- create mode 100644 docs/tags/lubang/page/1/index.html[0K
- create mode 100644 docs/tags/plot/index.html[0K
- create mode 100644 docs/tags/plot/index.xml[0K
- create mode 100644 docs/tags/plot/page/1/index.html[0K
- create mode 100644 docs/tags/project/index.html[0K
- create mode 100644 docs/tags/project/index.xml[0K
- create mode 100644 docs/tags/project/page/1/index.html[0K
- create mode 100644 docs/tags/r-markdown/index.html[0K
- create mode 100644 docs/tags/r-markdown/index.xml[0K
- create mode 100644 docs/tags/r-markdown/page/1/index.html[0K
- create mode 100644 docs/tags/regression/index.html[0K
- create mode 100644 docs/tags/regression/index.xml[0K
- create mode 100644 docs/tags/regression/page/1/index.html[0K
- create mode 100644 docs/tags/tag/index.html[0K
- create mode 100644 docs/tags/tag/index.xml[0K
- create mode 100644 docs/tags/tag/page/1/index.html[0K
- create mode 100644 docs/tags/theme/index.html[0K
- create mode 100644 docs/tags/theme/index.xml[0K
- create mode 100644 docs/tags/theme/page/1/index.html[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25h[?25li[0K[4G[?25h[5G[?25l$ git[0K[?25h[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
-[0K[?25hEnumerating objects: 72, done.[0K[?25l
-Counting objects:  55% (40/72)[0K[1G[?25hCounting objects: 100% (72/72), done.[0K[?25l
-Delta compression using up to 4 threads.[0K
-Compressing objects:  86% (45/52)[0K[1G[?25hCompressing objects: 100% (52/52), done.[0K[?25l
-Writing objects:  89% (49/55)[0K[1G[?25hWriting objects: 100% (55/55), 11.73 KiB | 500.00 KiB/s, done.[0K[?25l
-Total 55 (delta 23), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  73% (17/23)[0K[1G[?25hremote: Resolving deltas: 100% (23/23), completed with 7 local objects.[0K[?25l
-[0K[?25hTo https://github.com/statKim/blogdown_test.git[0K[?25l
-   7ca49e9..a0941f7  master -> master[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25h[?25lt[0K[8G[?25h[9G[?25l$ git sta[0K[?25ht[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/F945E687/console06/24F840A8[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/prop/C0A6E0F3[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD-contents[0m[0K
-        [0;31mmodified:   config.toml[0m[0K
-        [0;31mmodified:   public/404.html[0m[0K
-        [0;31mmodified:   public/categories/index.html[0m[0K
-        [0;31mmodified:   public/categories/index.xml[0m[0K
-        [0;31mmodified:   public/categories/programming/index.html[0m[0K
-        [0;31mmodified:   public/categories/programming/index.xml[0m[0K
-        [0;31mmodified:   public/categories/programming/page/1/index.html[0m[0K
-        [0;31mmodified:   public/categories/projects/index.html[0m[0K
-        [0;31mmodified:   public/categories/projects/index.xml[0m[0K
-        [0;31mmodified:   public/categories/projects/page/1/index.html[0m[0K
-        [0;31mmodified:   public/categories/r/index.html[0m[0K
-        [0;31mmodified:   public/categories/r/index.xml[0m[0K
-        [0;31mmodified:   public/categories/r/page/1/index.html[0m[0K[?25h[?25l
-        [0;31mmodified:   public/index.html[0m[0K
-        [0;31mmodified:   public/index.xml[0m[0K
-        [0;31mmodified:   public/page/1/index.html[0m[0K
-        [0;31mmodified:   public/page/2/index.html[0m[0K
-        [0;31mmodified:   public/post/2015-07-23-r-rmarkdown/index.html[0m[0K
-        [0;31mmodified:   public/post/index.html[0m[0K
-        [0;31mmodified:   public/post/index.xml[0m[0K
-        [0;31mmodified:   public/post/page/1/index.html[0m[0K
-        [0;31mmodified:   public/post/post_sample/index.html[0m[0K
-        [0;31mmodified:   public/project/index.html[0m[0K
-        [0;31mmodified:   public/project/index.xml[0m[0K
-        [0;31mmodified:   public/project/page/1/index.html[0m[0K
-        [0;31mmodified:   public/project/project_sample/index.html[0m[0K
-        [0;31mmodified:   public/sitemap.xml[0m[0K
-        [0;31mmodified:   public/tags/hugo/index.html[0m[0K
-        [0;31mmodified:   public/tags/hugo/index.xml[0m[0K
-        [0;31mmodified:   public/tags/hugo/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/index.html[0m[0K
-        [0;31mmodified:   public/tags/index.xml[0m[0K
-        [0;31mmodified:   public/tags/lubang/index.html[0m[0K
-        [0;31mmodified:   public/tags/lubang/index.xml[0m[0K
-        [0;31mmodified:   public/tags/lubang/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/plot/index.html[0m[0K
-        [0;31mmodified:   public/tags/plot/index.xml[0m[0K
-        [0;31mmodified:   public/tags/plot/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/project/index.html[0m[0K
-        [0;31mmodified:   public/tags/project/index.xml[0m[0K
-        [0;31mmodified:   public/tags/project/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/index.html[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/index.xml[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/regression/index.html[0m[0K
-        [0;31mmodified:   public/tags/regression/index.xml[0m[0K
-        [0;31mmodified:   public/tags/regression/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/tag/index.html[0m[0K
-        [0;31mmodified:   public/tags/tag/index.xml[0m[0K
-        [0;31mmodified:   public/tags/tag/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/theme/index.html[0m[0K
-        [0;31mmodified:   public/tags/theme/index.xml[0m[0K
-        [0;31mmodified:   public/tags/theme/page/1/index.html[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[6G[?25l$ gi[0K[6G[?25h[5G[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/prop/C0A6E0F3.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD-cont[0Ke
-nts.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/404.html.[0K[2G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/programming/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/programming/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/projects/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/projects/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/2015-07-23-r-rmarkdown/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/post_sample/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/project_sample/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/sitemap.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/hugo/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/hugo/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/lubang/index.html.[0K[1G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/lubang/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in public/tags/tag/index.html.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/tag/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/theme/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/theme/index.xml.[0K[1G[?25h[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25h[?25li[0K[4G[?25h[5G[?25l$ git[0K[?25h[7G[?25l$ git c[0K[7G[?25h[8G[?25l$ git co[0K[?25hm[0K[?25lm[0K[10G[?25h[11G[?25l$ git commi[0K[?25h[?25lt[0K[12G[?25h[13G[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h[[0Kb[0Ka[0Ks[0Ke[0K[?25l$ git commit -m "[bas[0K[?25h[?25l$ git commit -m "[ba[0K[?25h[?25l$ git commit -m "[b[0K[?25h[?25l$ git commit -m "[[0K[?25h[?25l$ git commit -m "[0K[?25hb[0Ka[0Ks[0Ke[0Ku[0Kr[0Kl[0K[26G[?25l$ git commit -m "baseurl 수[0K[?25h정"[0K[?25l
-[0K[?25h[master 622e579] baseurl 수정[0K[?25l
- 57 files changed, 776 insertions(+), 506 deletions(-)[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$ gi[0K[?25ht[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
-[0K[?25hEnumerating objects: 204, done.[0K[?25l
-Counting objects:  41% (84/204)[0K[1G[?25h[?25lCounting objects:  75% (153/204)[0K[1G[?25hCounting objects: 100% (204/204), done.[0K[?25l
-Delta compression using up to 4 threads.[0K
-Compressing objects:  11% (9/81)[0K[1G[?25h[?25lCompressing objects:  77% (63/81)[0K[1G[?25hCompressing objects: 100% (81/81), done.[0K[?25l
-Writing objects:  25% (28/112)[0K[1G[?25hWriting objects: 100% (112/112), 11.92 KiB | 381.00 KiB/s, done.[0K[?25l
-Total 112 (delta 59), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:   8% (5/59)[0K[1G[?25hremote: Resolving deltas: 100% (59/59), completed with 26 local objects.[0K[?25l
-[0K[?25hTo https://github.com/statKim/blogdown_test.git[0K[?25l
-   a0941f7..622e579  master -> master[0K
-[0K[?25h[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0K]0;:/c/Users/hyunsungKim/ITStudy/blogdown_test[?25l
-[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0;36m (master)[0m[0K
-[?25l$ g[0K[?25hu[0Kt[0K[?25l$ gu[0K[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
 [0K[?25hOn branch master[0K[?25l
 Your branch is up to date with 'origin/master'.[0K
 [0K
@@ -1007,26 +8,13 @@ Changes not staged for commit:[0K
 [0K
         [0;31mmodified:   .Rproj.user/F945E687/console06/24F840A8[0m[0K
         [0;31mmodified:   .Rproj.user/F945E687/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/pcs/source-pane.pper[0m[0K[2A[9G[?25h[?25l
-
-
-        [0;31mmodified:   .Rproj.user/F945E687/pcs/windowlayoutstate.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/F945E687/sources/prop/23B444E2[0m[0K
+        [0;31mmodified:   .Rproj.user/F945E687/pcs/source-pane.pper[0m[0K
+        [0;31mmodified:   .Rproj.user/F945E687/pcs/workbench-pane.pper[0m[0K
         [0;31mmodified:   .Rproj.user/F945E687/sources/prop/C0A6E0F3[0m[0K
         [0;31mmodified:   .Rproj.user/F945E687/sources/prop/DE378F46[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/17728B1C-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/1F5C8987-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/21E3A4AD-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/35EF2C12-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/5C2E4361-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/617DF41B-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/C4F39EE5-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/DC2349FB-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/EFDD3DC4-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/F889FEFE-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/F945E687/sources/s-D44AC487/lock_file[0m[0K
+        [0;31mmodified:   .Rproj.user/F945E687/sources/prop/INDEX[0m[0K
         [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   blogdown_test.Rproj[0m[0K
         [0;31mmodified:   config.toml[0m[0K
         [0;31mmodified:   content/post/2015-07-23-r-rmarkdown.html[0m[0K
         [0;31mmodified:   docs/404.html[0m[0K
@@ -1042,7 +30,7 @@ Changes not staged for commit:[0K
         [0;31mmodified:   docs/categories/r/index.xml[0m[0K
         [0;31mmodified:   docs/categories/r/page/1/index.html[0m[0K
         [0;31mmodified:   docs/index.html[0m[0K
-        [0;31mmodified:   docs/index.xml[0m[0K
+        [0;31mmodified:   docs/index.xml[0m[0K[?25h[?25l
         [0;31mmodified:   docs/page/1/index.html[0m[0K
         [0;31mmodified:   docs/page/2/index.html[0m[0K
         [0;31mmodified:   docs/post/2015-07-23-r-rmarkdown/index.html[0m[0K
@@ -1052,7 +40,7 @@ Changes not staged for commit:[0K
         [0;31mmodified:   docs/post/post_sample/index.html[0m[0K
         [0;31mmodified:   docs/project/index.html[0m[0K
         [0;31mmodified:   docs/project/index.xml[0m[0K
-        [0;31mmodified:   docs/project/page/1/index.html[0m[0K[9G[?25h[?25l
+        [0;31mmodified:   docs/project/page/1/index.html[0m[0K
         [0;31mmodified:   docs/project/project_sample/index.html[0m[0K
         [0;31mmodified:   docs/sitemap.xml[0m[0K
         [0;31mmodified:   docs/tags/hugo/index.html[0m[0K
@@ -1070,7 +58,7 @@ Changes not staged for commit:[0K
         [0;31mmodified:   docs/tags/project/index.xml[0m[0K
         [0;31mmodified:   docs/tags/project/page/1/index.html[0m[0K
         [0;31mmodified:   docs/tags/r-markdown/index.html[0m[0K
-        [0;31mmodified:   docs/tags/r-markdown/index.xml[0m[0K
+        [0;31mmodified:   docs/tags/r-markdown/index.xml[0m[0K[9G[?25h[?25l
         [0;31mmodified:   docs/tags/r-markdown/page/1/index.html[0m[0K
         [0;31mmodified:   docs/tags/regression/index.html[0m[0K
         [0;31mmodified:   docs/tags/regression/index.xml[0m[0K
@@ -1081,64 +69,66 @@ Changes not staged for commit:[0K
         [0;31mmodified:   docs/tags/theme/index.html[0m[0K
         [0;31mmodified:   docs/tags/theme/index.xml[0m[0K
         [0;31mmodified:   docs/tags/theme/page/1/index.html[0m[0K
-        [0;31mmodified:   public/404.html[0m[0K
-        [0;31mmodified:   public/categories/index.html[0m[0K
-        [0;31mmodified:   public/categories/index.xml[0m[0K
-        [0;31mmodified:   public/categories/programming/index.html[0m[0K
-        [0;31mmodified:   public/categories/programming/index.xml[0m[0K
-        [0;31mmodified:   public/categories/programming/page/1/index.html[0m[0K[?25h[?25l
-        [0;31mmodified:   public/categories/projects/index.html[0m[0K
-        [0;31mmodified:   public/categories/projects/index.xml[0m[0K
-        [0;31mmodified:   public/categories/projects/page/1/index.html[0m[0K
-        [0;31mmodified:   public/categories/r/index.html[0m[0K
-        [0;31mmodified:   public/categories/r/index.xml[0m[0K
-        [0;31mmodified:   public/categories/r/page/1/index.html[0m[0K
-        [0;31mmodified:   public/index.html[0m[0K
-        [0;31mmodified:   public/index.xml[0m[0K
-        [0;31mmodified:   public/page/1/index.html[0m[0K
-        [0;31mmodified:   public/page/2/index.html[0m[0K
-        [0;31mmodified:   public/post/2015-07-23-r-rmarkdown/index.html[0m[0K
-        [0;31mmodified:   public/post/index.html[0m[0K
-        [0;31mmodified:   public/post/index.xml[0m[0K
-        [0;31mmodified:   public/post/page/1/index.html[0m[0K
-        [0;31mmodified:   public/post/post_sample/index.html[0m[0K
-        [0;31mmodified:   public/project/index.html[0m[0K
-        [0;31mmodified:   public/project/index.xml[0m[0K
-        [0;31mmodified:   public/project/page/1/index.html[0m[0K
-        [0;31mmodified:   public/project/project_sample/index.html[0m[0K
-        [0;31mmodified:   public/sitemap.xml[0m[0K
-        [0;31mmodified:   public/tags/hugo/index.html[0m[0K
-        [0;31mmodified:   public/tags/hugo/index.xml[0m[0K
-        [0;31mmodified:   public/tags/hugo/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/index.html[0m[0K
-        [0;31mmodified:   public/tags/index.xml[0m[0K
-        [0;31mmodified:   public/tags/lubang/index.html[0m[0K
-        [0;31mmodified:   public/tags/lubang/index.xml[0m[0K
-        [0;31mmodified:   public/tags/lubang/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/plot/index.html[0m[0K
-        [0;31mmodified:   public/tags/plot/index.xml[0m[0K
-        [0;31mmodified:   public/tags/plot/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/project/index.html[0m[0K
-        [0;31mmodified:   public/tags/project/index.xml[0m[0K
-        [0;31mmodified:   public/tags/project/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/index.html[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/index.xml[0m[0K
-        [0;31mmodified:   public/tags/r-markdown/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/regression/index.html[0m[0K
-        [0;31mmodified:   public/tags/regression/index.xml[0m[0K
-        [0;31mmodified:   public/tags/regression/page/1/index.html[0m[0K[9G[?25h[?25l
-        [0;31mmodified:   public/tags/tag/index.html[0m[0K
-        [0;31mmodified:   public/tags/tag/index.xml[0m[0K
-        [0;31mmodified:   public/tags/tag/page/1/index.html[0m[0K
-        [0;31mmodified:   public/tags/theme/index.html[0m[0K
-        [0;31mmodified:   public/tags/theme/index.xml[0m[0K
-        [0;31mmodified:   public/tags/theme/page/1/index.html[0m[0K
-        [0;31mmodified:   themes/hugo-hello-programmer-theme/theme.toml[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.gitignore[0m[0K
+        [0;31mdeleted:    public/.gitkeep[0m[0K
+        [0;31mdeleted:    public/404.html[0m[0K
+        [0;31mdeleted:    public/categories/index.html[0m[0K
+        [0;31mdeleted:    public/categories/index.xml[0m[0K
+        [0;31mdeleted:    public/categories/programming/index.html[0m[0K
+        [0;31mdeleted:    public/categories/programming/index.xml[0m[0K
+        [0;31mdeleted:    public/categories/programming/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/categories/projects/index.html[0m[0K
+        [0;31mdeleted:    public/categories/projects/index.xml[0m[0K
+        [0;31mdeleted:    public/categories/projects/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/categories/r/index.html[0m[0K
+        [0;31mdeleted:    public/categories/r/index.xml[0m[0K
+[0K[9G[?25h[?25l        [0;31mdeleted:    public/categories/r/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/css/styles.css[0m[0K
+        [0;31mdeleted:    public/favicon.ico[0m[0K
+        [0;31mdeleted:    public/images/logo.png[0m[0K
+        [0;31mdeleted:    public/images/post-title-icon.png[0m[0K
+        [0;31mdeleted:    public/images/thumbnail.png[0m[0K
+        [0;31mdeleted:    public/index.html[0m[0K
+        [0;31mdeleted:    public/index.xml[0m[0K
+        [0;31mdeleted:    public/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/page/2/index.html[0m[0K
+        [0;31mdeleted:    public/post/2015-07-23-r-rmarkdown.Rmd[0m[0K
+        [0;31mdeleted:    public/post/2015-07-23-r-rmarkdown/index.html[0m[0K
+        [0;31mdeleted:    public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0m[0K
+        [0;31mdeleted:    public/post/index.html[0m[0K
+        [0;31mdeleted:    public/post/index.xml[0m[0K
+        [0;31mdeleted:    public/post/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/post/post_sample/index.html[0m[0K
+        [0;31mdeleted:    public/project/index.html[0m[0K
+        [0;31mdeleted:    public/project/index.xml[0m[0K
+        [0;31mdeleted:    public/project/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/project/project_sample/index.html[0m[0K
+        [0;31mdeleted:    public/sitemap.xml[0m[0K[9G[?25h[?25l
+        [0;31mdeleted:    public/tags/hugo/index.html[0m[0K
+        [0;31mdeleted:    public/tags/hugo/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/hugo/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/index.html[0m[0K
+        [0;31mdeleted:    public/tags/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/lubang/index.html[0m[0K
+        [0;31mdeleted:    public/tags/lubang/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/lubang/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/plot/index.html[0m[0K
+        [0;31mdeleted:    public/tags/plot/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/plot/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/project/index.html[0m[0K
+        [0;31mdeleted:    public/tags/project/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/project/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/r-markdown/index.html[0m[0K
+        [0;31mdeleted:    public/tags/r-markdown/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/r-markdown/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/regression/index.html[0m[0K
+        [0;31mdeleted:    public/tags/regression/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/regression/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/tag/index.html[0m[0K
+        [0;31mdeleted:    public/tags/tag/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/tag/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/theme/index.html[0m[0K
+        [0;31mdeleted:    public/tags/theme/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/theme/page/1/index.html[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l

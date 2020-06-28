@@ -1,13 +1,18 @@
-baseurl = "your-site-address"
-title = "your-site-name"
+baseurl = "https://statkim.github.io/blogdown_test/"
+title = "statKim Blog"
 languageCode = "ko-KR"
 
 theme = "hugo-hello-programmer-theme"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 paginate = 2
 
-disqusShortname = "XXXX"
+disqusShortname = "statKim"
 googleAnalytics = "UA-XXXXXXXX-X"
+
+publishDir = "docs"
+
 
 [author]
     name = "your-name"
