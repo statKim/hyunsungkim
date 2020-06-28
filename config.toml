@@ -1,0 +1,14 @@
+baseurl = "https://statkim.github.io/"
+title = "statKim Blog"
+languageCode = "ko-KR"
+
+theme = "hugo-hello-programmer-theme"
+
+paginate = 2
+
+disqusShortname = "statKim"
+googleAnalytics = "UA-XXXXXXXX-X"
+
+[author]
+    name = "Hyunsung Kim"
+    email = "hyunsung1021@gmail.com"

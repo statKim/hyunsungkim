@@ -1,0 +1,32 @@
+[0m[0K]0;:/c/Users/hyunsungKim/ITStudy/blogdown_test[?25l
+[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hREADME.md  blogdown_test.Rproj  config.toml  content  index.Rmd  public  static  themes[0K[?25l
+[0K[?25h[?25l
+[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Ks[0K[7G[6G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K[?25h[?25l
+[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown_test[0m[0K
+$[0K[3G[?25h[?25l[9A[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
+test[0K
+[0m$ ls[0K
+README.md  blogdown_test.Rproj  config.toml[0K
+ content  index.Rmd  public  static  themes[0K
+[0K
+[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
+test[0K
+[0m$ git status[0K
+fatal: not a git repository (or any of the [0Kp
+arent directories): .git[0K
+[0K
+[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
+test[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/User[0Ks[?25l
+/hyunsungKim/ITStudy/blogdown_test/.git/[0K
+[0K[?25h[?25l
+[0;32mhyunsungKim@hyunsungKim [0;35m [0;33m~/ITStudy/blogdown[0K_
+test[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h

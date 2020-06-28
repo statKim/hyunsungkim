@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on statKim Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on statKim Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <managingEditor>hyunsung1021@gmail.com (Hyunsung Kim)</managingEditor>
+    <webMaster>hyunsung1021@gmail.com (Hyunsung Kim)</webMaster>
+    <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lubang</title>
+      <link>/tags/lubang/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/lubang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>/tags/project/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag</title>
+      <link>/tags/tag/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>/tags/theme/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <author>hyunsung1021@gmail.com (Hyunsung Kim)</author>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
