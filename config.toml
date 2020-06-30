@@ -1,10 +1,11 @@
 baseurl = "https://statKim.github.io/blogdown_test/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "blogdown test"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
