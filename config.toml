@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://statKim.github.io/blogdown_test/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
