@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://statkim.github.io/blogdown_test/sitemap.xml

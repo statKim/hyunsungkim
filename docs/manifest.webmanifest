@@ -1,0 +1,18 @@
+{
+  "name": "Hyunsung Kim",
+  "short_name": "Hyunsung Kim",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/blogdown_test/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/blogdown_test/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/blogdown_test/?utm_source=web_app_manifest"
+}

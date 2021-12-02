@@ -1,42 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on blogdown test</title>
-    <link>https://statKim.github.io/blogdown_test/tags/</link>
-    <description>Recent content in Tags on blogdown test</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="https://statKim.github.io/blogdown_test/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>plot</title>
-      <link>https://statKim.github.io/blogdown_test/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://statKim.github.io/blogdown_test/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://statKim.github.io/blogdown_test/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://statKim.github.io/blogdown_test/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>https://statKim.github.io/blogdown_test/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://statKim.github.io/blogdown_test/tags/regression/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Hyunsung Kim</title>
+    <link>https://statkim.github.io/blogdown_test/tags/</link>
+      <atom:link href="https://statkim.github.io/blogdown_test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statkim.github.io/blogdown_test/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://statkim.github.io/blogdown_test/tags/</link>
+    </image>
     
   </channel>
 </rss>
