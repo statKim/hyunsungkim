@@ -18,6 +18,7 @@ bio: My research interests include Functional Data Analysis and High-Dimensional
 
 # Interests to show in About widget
 interests:
+- Dimension Reduction
 - Functional Data Analysis
 # - Object-Oriented Data Analysis
 - High-Dimensional Data Analysis
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:hyunsung1021@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -51,13 +52,15 @@ social:
 #     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
   link: https://scholar.google.com/citations?user=s0yzC6cAAAAJ&hl=ko
 - icon: github
   icon_pack: fab
   link: https://github.com/statKim
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hyunsung-kim-5867b7206/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,18 +70,18 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hyunsung1021@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Ph.D. student from Department of Statistics at Chung-Ang University, under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
-I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/caumulti) directed by [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
-Prior to that, I obtained a M.A. in Statistics in Febrary 2021, and a B.A. in Applied Statistics  in Febrary 2019 from Chung-Ang University.
+I am a Ph.D. student from [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
+I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/caumulti).
+Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 
-My research interests are functional data analysis and high-dimensional data analysis.
-Currently, my main research work includes robust covariance estimation for partially observed functional data.
+My research interests include dimension reduction, functional data analysis and high-dimensional data analysis.
+Currently, my main research work includes robust principal component analysis for partially observed functional data.
 
 I love R coding and making documents using Rmarkdown.
 I sometimes write on [my personal blog](https://statkim.github.io/) about Statistics, R, etc.
@@ -88,3 +91,5 @@ I have broad research interests in methodology and theory in causal inference, r
 -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1BE4L3BCqZO3jVBTvnYbm5e6JOdG_awd5/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
+<br>
+{{< icon name="envelope" pack="fas" >}} Contact me : [hyunsung1021@gmail.com](mailto:hyunsung1021@gmail.com)

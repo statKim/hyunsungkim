@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+
+1. Robust covariance estimation for partially observed functional data, *BERNOULLI-IMS 10TH WORLD CONGRESS IN PROBABILITY AND STATISTICS*, Seoul, Korea, July 2021.

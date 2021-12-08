@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hyunsung Kim</title>
-    <link>https://statkim.github.io/blogdown_test/tag/academic/</link>
-      <atom:link href="https://statkim.github.io/blogdown_test/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://statkim.github.io/hs_kim/tag/academic/</link>
+      <atom:link href="https://statkim.github.io/hs_kim/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/blogdown_test/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <url>https://statkim.github.io/hs_kim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://statkim.github.io/blogdown_test/tag/academic/</link>
+      <link>https://statkim.github.io/hs_kim/tag/academic/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://statkim.github.io/blogdown_test/post/getting-started/</link>
+      <link>https://statkim.github.io/hs_kim/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/blogdown_test/post/getting-started/</guid>
+      <guid>https://statkim.github.io/hs_kim/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

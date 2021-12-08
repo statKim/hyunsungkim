@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyunsung Kim</title>
-    <link>https://statkim.github.io/blogdown_test/author/hyunsung-kim/</link>
-      <atom:link href="https://statkim.github.io/blogdown_test/author/hyunsung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://statkim.github.io/hs_kim/author/hyunsung-kim/</link>
+      <atom:link href="https://statkim.github.io/hs_kim/author/hyunsung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunsung Kim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/blogdown_test/author/hyunsung-kim/avatar_huc34d849711b1fb0966f165b8d59b5543_307558_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://statkim.github.io/hs_kim/author/hyunsung-kim/avatar_huc34d849711b1fb0966f165b8d59b5543_307558_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hyunsung Kim</title>
-      <link>https://statkim.github.io/blogdown_test/author/hyunsung-kim/</link>
+      <link>https://statkim.github.io/hs_kim/author/hyunsung-kim/</link>
     </image>
     
     <item>
       <title>Bootstrap aggregated classification for sparse functional data</title>
-      <link>https://statkim.github.io/blogdown_test/publication/2021-jas_bagfpca/</link>
+      <link>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/blogdown_test/publication/2021-jas_bagfpca/</guid>
+      <guid>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,9 +33,9 @@
     
     <item>
       <title>Robust group independent component analysis</title>
-      <link>https://statkim.github.io/blogdown_test/publication/2021-kjas_groupica/</link>
+      <link>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/blogdown_test/publication/2021-kjas_groupica/</guid>
+      <guid>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,9 +52,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://statkim.github.io/blogdown_test/post/getting-started/</link>
+      <link>https://statkim.github.io/hs_kim/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/blogdown_test/post/getting-started/</guid>
+      <guid>https://statkim.github.io/hs_kim/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -128,24 +128,10 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://statkim.github.io/blogdown_test/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/blogdown_test/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://statkim.github.io/blogdown_test/post/jupyter/</link>
+      <link>https://statkim.github.io/hs_kim/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/blogdown_test/post/jupyter/</guid>
+      <guid>https://statkim.github.io/hs_kim/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
