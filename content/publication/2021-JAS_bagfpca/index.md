@@ -22,13 +22,17 @@ publication_types: ["2"]
 publication: "*Journal of Applied Statistics, In press*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Sparse functional data are commonly observed in real-data analyzes. For such data, we propose a new classification method based on functional principal component analysis (FPCA) and bootstrap aggregating. Bootstrap aggregating is believed to improve the single classifier. In this paper, we apply this belief to an FPCA based clas- sification, and compare the classification performance with that of the single classifiers. The simulation results show that the proposed method performs better than the conventional single classifiers. We then conduct two real-data analyzes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Functional data
+- functional principal component analysis
+- bootstrap aggregating
+- classification
+- sparse data
 featured: false
 
 # links:
@@ -65,6 +69,7 @@ projects: []
 slides: example
 ---
 
+<!--
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -74,3 +79,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+-->

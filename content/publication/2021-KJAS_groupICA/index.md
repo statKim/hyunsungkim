@@ -23,13 +23,17 @@ publication_types: ["2"]
 publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Independent Component Analysis is a popular statistical method to separate independent signals from the mixed data, and Group Independent Component Analysis is an its multi-subject extension of Independent Com- ponent Analysis. It has been applied Functional Magnetic Resonance Imaging data and provides promising re- sults. However, classical Group Independent Component Analysis works poorly when outliers exist on data which is frequently occurred in Magnetic Resonance Imaging scanning. In this study, we propose a robust version of the Group Independent Component Analysis based on ROBPCA. Through the numerical studies, we compare proposed method to the conventional method, and verify the robustness of the proposed method.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- functional magnetic resonance imaging
+- independent component analysis
+- group independent component analysis
+- robustness
+- ROBPCA
 featured: false
 
 # links:
@@ -66,6 +70,7 @@ projects: []
 slides: ""
 ---
 
+<!--
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -75,3 +80,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+-->

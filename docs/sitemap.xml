@@ -18,13 +18,21 @@
   <url>
     <loc>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://statkim.github.io/hs_kim/tag/bootstrap-aggregating/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/classification/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/functional-data/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/functional-principal-component-analysis/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://statkim.github.io/hs_kim/author/hyunsung-kim/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hs_kim/publication_types/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hs_kim/publication/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://statkim.github.io/hs_kim/tag/source-themes/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
+    <loc>https://statkim.github.io/hs_kim/tag/sparse-data/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hs_kim/tags/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -34,9 +42,27 @@
   <url>
     <loc>https://statkim.github.io/hs_kim/post/</loc><lastmod>2021-11-27T11:29:39+09:00</lastmod></url>
   <url>
+    <loc>https://statkim.github.io/hs_kim/tag/covariance-estimation/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/author/hyunsung-kim/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/partially-observed-functional-data/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/principal-component-analysis/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+  <url>
     <loc>https://statkim.github.io/hs_kim/presentation/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
   <url>
-    <loc>https://statkim.github.io/hs_kim/presentation/example/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+    <loc>https://statkim.github.io/hs_kim/presentation/2021-wc2021/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/robustness/</loc><lastmod>2021-07-21T11:30:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/functional-magnetic-resonance-imaging/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/group-independent-component-analysis/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/independent-component-analysis/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hs_kim/tag/robpca/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>

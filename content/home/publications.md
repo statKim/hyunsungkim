@@ -43,6 +43,7 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
+<!--
 ## Refereed Journal Papers
 
 1. **H. Kim** and Y. Lim (2022+). [Bootstrap aggregated classification for sparse functional data](https://doi.org/10.1080/02664763.2021.1889997). *Journal of Applied Statistics*, In press.
@@ -59,4 +60,4 @@ Quickly discover relevant content by [filtering publications](./publication/).
 3. E. Park, **H. Kim**<sup>+</sup>, Y. Lim, W. Lee and S. Lee  (2022+). Effect of chronic disease management led by small financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea. In preparation.
 		
 4. J-Y. Park, Y-J. Choe, Y. Lim and **H. Kim** (2022+) Association between the incidence of type 1 diabetes mellitus and tuberculosis or Bacillus Calmette-Guérin immunization in children and adolescents: data from the International Diabetes Federation and World Health Organization. Under review.
-
+-->

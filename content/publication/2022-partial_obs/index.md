@@ -1,8 +1,8 @@
 ---
-title: "Robust principal component analysis and its applications for partially observed functional data"
+title: "Functional principal component analysis for partially observed elliptical process"
 authors:
-- admin
 - Yeonjoo Park
+- admin
 - Yaeji Lim
 author_notes:
 - "Equal contribution"
@@ -18,7 +18,7 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*In preparation*"
@@ -69,8 +69,10 @@ url_code: 'https://github.com/statKim/robfpca'
 # slides: example
 ---
 
+<!--
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+-->
