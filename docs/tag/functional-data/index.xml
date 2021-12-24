@@ -5,12 +5,30 @@
     <link>https://statkim.github.io/hs_kim/tag/functional-data/</link>
       <atom:link href="https://statkim.github.io/hs_kim/tag/functional-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Functional data</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hs_kim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Functional data</title>
       <link>https://statkim.github.io/hs_kim/tag/functional-data/</link>
     </image>
+    
+    <item>
+      <title>Functional principal component analysis for partially observed elliptical process</title>
+      <link>https://statkim.github.io/hs_kim/publication/2022-partial_obs/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hs_kim/publication/2022-partial_obs/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Bootstrap aggregated classification for sparse functional data</title>
