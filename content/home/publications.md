@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Publications
-subtitle: ''
+subtitle: 'Published / Accepted'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 design:

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bootstrap aggregating | Hyunsung Kim</title>
-    <link>https://statkim.github.io/hs_kim/tag/bootstrap-aggregating/</link>
-      <atom:link href="https://statkim.github.io/hs_kim/tag/bootstrap-aggregating/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://statkim.github.io/hyunsungkim/tag/bootstrap-aggregating/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/bootstrap-aggregating/index.xml" rel="self" type="application/rss+xml" />
     <description>bootstrap aggregating</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/hs_kim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>bootstrap aggregating</title>
-      <link>https://statkim.github.io/hs_kim/tag/bootstrap-aggregating/</link>
+      <link>https://statkim.github.io/hyunsungkim/tag/bootstrap-aggregating/</link>
     </image>
     
     <item>
       <title>Bootstrap aggregated classification for sparse functional data</title>
-      <link>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</link>
+      <link>https://statkim.github.io/hyunsungkim/publication/2021-jas_bagfpca/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2021-jas_bagfpca/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Hyunsung Kim</title>
-    <link>https://statkim.github.io/hs_kim/publication/</link>
-      <atom:link href="https://statkim.github.io/hs_kim/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://statkim.github.io/hyunsungkim/publication/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/hs_kim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://statkim.github.io/hs_kim/publication/</link>
+      <link>https://statkim.github.io/hyunsungkim/publication/</link>
     </image>
     
     <item>
       <title>Functional principal component analysis for partially observed elliptical process</title>
-      <link>https://statkim.github.io/hs_kim/publication/2022-partial_obs/</link>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/publication/2022-partial_obs/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -31,10 +31,24 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Effect of chronic disease management led by small financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea</title>
-      <link>https://statkim.github.io/hs_kim/publication/2022-godang/</link>
+      <title>Association between the incidence of type 1 diabetes mellitus and tuberculosis or Bacillus Calmette‐Guérin immunization in children and adolescents: data from the International Diabetes Federation and World Health Organization</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-cau-hospital/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/publication/2022-godang/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-cau-hospital/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effect of chronic disease management led by small financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-godang/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-godang/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -46,9 +60,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Bootstrap aggregated classification for sparse functional data</title>
-      <link>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</link>
+      <link>https://statkim.github.io/hyunsungkim/publication/2021-jas_bagfpca/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/publication/2021-jas_bagfpca/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2021-jas_bagfpca/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -71,9 +85,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Robust group independent component analysis</title>
-      <link>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</link>
+      <link>https://statkim.github.io/hyunsungkim/publication/2021-kjas_groupica/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2021-kjas_groupica/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

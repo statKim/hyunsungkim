@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>robustness | Hyunsung Kim</title>
-    <link>https://statkim.github.io/hs_kim/tag/robustness/</link>
-      <atom:link href="https://statkim.github.io/hs_kim/tag/robustness/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://statkim.github.io/hyunsungkim/tag/robustness/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/robustness/index.xml" rel="self" type="application/rss+xml" />
     <description>robustness</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Hyunsung Kim</copyright><lastBuildDate>Wed, 21 Jul 2021 11:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/hs_kim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>robustness</title>
-      <link>https://statkim.github.io/hs_kim/tag/robustness/</link>
+      <link>https://statkim.github.io/hyunsungkim/tag/robustness/</link>
     </image>
     
     <item>
       <title>Robust covariance estimation for partially observed functional data</title>
-      <link>https://statkim.github.io/hs_kim/presentation/2021-wc2021/</link>
+      <link>https://statkim.github.io/hyunsungkim/talk/robust-covariance-estimation-for-partially-observed-functional-data/</link>
       <pubDate>Wed, 21 Jul 2021 11:30:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/presentation/2021-wc2021/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/talk/robust-covariance-estimation-for-partially-observed-functional-data/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Robust group independent component analysis</title>
-      <link>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</link>
+      <link>https://statkim.github.io/hyunsungkim/publication/2021-kjas_groupica/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hs_kim/publication/2021-kjas_groupica/</guid>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2021-kjas_groupica/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
