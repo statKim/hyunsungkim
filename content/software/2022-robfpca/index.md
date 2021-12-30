@@ -1,28 +1,28 @@
 ---
-title: Robust covariance estimation for partially observed functional data
+title: robfpca
 
-event: BERNOULLI-IMS 10th WORLD CONGRESS in PROBABILITY and STATISTICS
-event_url: https://www.wc2020.org/index.php
+# event: Functional principal component analysis for partially observed elliptical process
+# event_url: https://github.com/statKim/robfpca
 
-location: Seoul National University (Virtual conference)
-address:
-  # street: 450 Serra Mall
-  city: Seoul
-  region: South Korea
-  # postcode: '94305'
-  # country: United States
+# location: Doshisha University (Hybrid conference)
+# address:
+#   # street: 450 Serra Mall
+#   city: Kyoto
+#   region: Japan
+#   # postcode: '94305'
+#   # country: Japan
 
-summary: BERNOULLI-IMS 10th WORLD CONGRESS in PROBABILITY and STATISTICS
-abstract: "In recent years, applications have emerged that produce partially observed functional data, where each trajectory is collected over individual-specific subinterval(s) within the whole domain of interest. Robustness to atypical partially observed curves in the application is a practical concern, especially in the dimension reduction step through functional principal component analysis (FPCA). Existing studies implemented FPCA by applying smoothing techniques to estimate mean and covariance functions under irregular functional data structure, however, its estimation is easily affected by outlying curves with heavy-tailed noises or spikes. In this study, we investigate the robust method for the covariance estimation by using bounded loss function, and it enables us to obtain robust functional principal components under partially observed functional data. Using the functional principal scores, we reconstruct the missing parts of trajectories. Numerical experiments show that our method provides a stable and robust estimation when the data contain the atypical curves."
+summary: Functional principal component analysis for partially observed elliptical process <br> https://github.com/statKim/robfpca
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-21T11:30:00Z"
-date_end: "2021-07-21T12:00:00Z"
+date: "2021-12-24T14:00:00Z"
+date_end: "2021-12-24T15:20:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-21T00:00:00Z"
+publishDate: "2021-12-24T00:00:00Z"
 
 authors: [Hyunsung Kim]
 tags: [partially observed functional data, covariance estimation, principal component analysis, robustness]
@@ -39,9 +39,9 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/statKim/robfpca"
 url_pdf: ""
-url_slides: "uploads/WC2021.pdf"
+# url_slides: "uploads/"
 url_video: ""
 
 # # Markdown Slides (optional).

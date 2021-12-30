@@ -22,13 +22,12 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Submitted*"
-# publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present the robust estimators of principal components for partially observed functional data with heavy-tail be- haviors, where sample trajectories are collected over individual-specific subinterval(s). We introduce the elliptical stochastic process to model non-Gaussian functional behaviors, formulate the partially sampled trajectories using the partial observation process, and propose implementing the robust functional principal component analysis under this framework. The proposed method is computationally efficient and straightforward by estimating the robust correlation function based on the pairwise covariance computation, combined with M-estimation. The asymptotic consistency of the estimators is established under general conditions. The superior performance of our method in the approximation of subspace of the data and reconstruction of full trajectories is demonstrated in simulation studies. We also apply the proposed method to hourly monitored air pollutant data, containing anomaly trajectories with random missing segments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Functional data
