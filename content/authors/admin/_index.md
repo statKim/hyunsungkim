@@ -14,21 +14,21 @@ organizations:
   url: https://sites.google.com/view/caumulti
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Functional Data Analysis and High-Dimensional Data Analysis.
+bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
 
 # Interests to show in About widget
 interests:
-- Dimension Reduction
 - Functional Data Analysis
-# - Object-Oriented Data Analysis
+- Non-Euclidean Data Analysis
+- Dimension Reduction
 - High-Dimensional Data Analysis
 
 # Education to show in About widget
 education:
   courses:
-  # - course: Ph.D. in Statistics
-  #   institution: Chung-Ang University
-  #   year: 2026
+  - course: Ph.D. in Statistics
+    institution: Chung-Ang University
+    year: 2026 (Expected)
   - course: M.A. in Statistics
     institution: Chung-Ang University
     year: 2021
@@ -80,8 +80,8 @@ I am a Ph.D. student from [Department of Statistics](http://stat.cau.ac.kr/) at 
 I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/caumulti).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 
-My research interests include dimension reduction, functional data analysis and high-dimensional data analysis.
-Currently, my main research work includes robust principal component analysis for partially observed functional data.
+My research interests include functional data analysis, non-Euclidean data analysis, dimension reduction and high-dimensional data analysis.
+Currently, my main research work includes developing PCA like dimension reduction method for functional data on Riemannian manifolds, and the functional clustering method for Riemannian functional data.
 
 I love R coding and making documents using Rmarkdown.
 I sometimes write on [my personal blog](https://statkim.github.io/) about Statistics, R, etc.
