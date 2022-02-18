@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Statistics
-    institution: Chung-Ang University
-    year: 2026 (Expected)
+  # - course: Ph.D. in Statistics
+  #   institution: Chung-Ang University
+  #   year: 2026 (Expected)
   - course: M.A. in Statistics
     institution: Chung-Ang University
     year: 2021
@@ -81,7 +81,7 @@ I am also a member of the [Multivariate Statistics Lab](https://sites.google.com
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 
 My research interests include functional data analysis, non-Euclidean data analysis, dimension reduction and high-dimensional data analysis.
-Currently, my main research work includes developing PCA like dimension reduction method for functional data on Riemannian manifolds, and the functional clustering method for Riemannian functional data.
+Currently, my main research work includes developing functional clustering and quantile based dimension reduction method for Riemannian functional data.
 
 I love R coding and making documents using Rmarkdown.
 I sometimes write on [my personal blog](https://statkim.github.io/) about Statistics, R, etc.
