@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: hyunsung1021@gmail.com
-# phone: 888 888 88 88
+phone: 82-10-8613-4948
 address:
   street: Chung-Ang University, Heukseok-ro 84
   city: Dongjak-gu
@@ -66,11 +66,11 @@ directions: The Research Center for Data Science, 310 Centennial Hall
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -86,7 +86,7 @@ highlight_languages:
   - r
   - python
   - latex
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:

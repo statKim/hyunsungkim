@@ -43,3 +43,5 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
+- **robfpca**: Functional principal component analysis for partially observed elliptical process. Available on [GitHub](https://github.com/statKim/robfpca).
+
