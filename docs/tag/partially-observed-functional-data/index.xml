@@ -5,12 +5,36 @@
     <link>https://statkim.github.io/hyunsungkim/tag/partially-observed-functional-data/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/tag/partially-observed-functional-data/index.xml" rel="self" type="application/rss+xml" />
     <description>partially observed functional data</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Wed, 21 Jul 2021 11:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Wed, 23 Feb 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>partially observed functional data</title>
       <link>https://statkim.github.io/hyunsungkim/tag/partially-observed-functional-data/</link>
     </image>
+    
+    <item>
+      <title>Robust principal component analysis applicable to partially observed functional data</title>
+      <link>https://statkim.github.io/hyunsungkim/talk/robust-principal-component-analysis-applicable-to-partially-observed-functional-data/</link>
+      <pubDate>Wed, 23 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/robust-principal-component-analysis-applicable-to-partially-observed-functional-data/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Robust covariance estimation for partially observed functional data</title>

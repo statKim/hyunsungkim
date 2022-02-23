@@ -18,7 +18,7 @@ abstract: "In recent years, applications have emerged that produce partially obs
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-02-23T14:00:00Z"
-date_end: "2022-02-23T15:20:00Z"
+date_end: "2022-02-23T15:40:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
