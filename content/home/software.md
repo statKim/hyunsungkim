@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Software
-subtitle: 'R-packages'
+# subtitle: 'R-packages'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -43,5 +43,6 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
+## R-package
 - **robfpca**: Functional principal component analysis for partially observed elliptical process. Available on [GitHub](https://github.com/statKim/robfpca).
 

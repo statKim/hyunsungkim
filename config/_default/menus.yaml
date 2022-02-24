@@ -10,25 +10,28 @@ main:
   - name: Talks
     url: '#talks'
     weight: 20
+  - name: Honors
+    url: '#honors'
+    weight: 30
   - name: Software
     url: '#software'
-    weight: 30
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 50
   - name: Teaching
     url: '#teaching'
-    weight: 50
+    weight: 60
   - name: Posts
     # url: '#posts'
     url: 'https://statkim.github.io/'
-    weight: 60
+    weight: 70
   - name: CV
     url: 'https://drive.google.com/file/d/1BE4L3BCqZO3jVBTvnYbm5e6JOdG_awd5/view?usp=sharing'
-    weight: 70
+    weight: 100
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 110
   # - name: Demo
   #   url: '#about'
   #   weight: 10

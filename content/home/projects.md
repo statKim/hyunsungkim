@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 title: Projects
 subtitle: ''
@@ -49,5 +49,5 @@ design:
 
 
 - **경기도 고혈압·당뇨병 등록관리사업 효과평가 분석**, *경기도 공공보건의료지원단*, 2019.07 - 2020.02
-- **빅데이터 기반 서비스부품 수요예측 강화**, *부품운영팀, 현대모비스*, 2019.02 - 2019.09
+- **빅데이터 기반 서비스부품 수요예측 강화**, *현대모비스 부품운영팀*, 2019.02 - 2019.09
 

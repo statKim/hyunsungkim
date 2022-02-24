@@ -7,14 +7,14 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: Teaching
-subtitle: ''
+title: Honors and Awards
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: teaching
+  page_type: software
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 
 <!--
@@ -43,6 +43,24 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
-- Lecturer, Introduction to Statistics and Python Programming (Short course), *Department of Fashion Design, Dong-A University*, Pusan, South Korea, July 2021.
 
-- Teaching Assistant, Introduction to Statistical Learning, *Department of Applied Statistics, Chung-Ang University*, Seoul, South Korea, Fall 2019.
+## Grants
+
+- **CAU Graduate Research Scholarship**, The Graduate School of Chung-Ang University.
+  - Mar 2019 ~ Feb 2021 (M.S.), Mar 2021 ~ Feb 2023 (Ph.D.)
+  - Funding amount: Full-tuition
+
+- **Scholarship for Academic Excellence**, Chung-Ang University.
+  - Mar 2014,  Mar 2018, Sep 2018
+
+- **Scholarship for Human Resource Developments**, Nonghyup Foundation.
+  - Mar 2013 ~ Feb 2019
+  - Funding amount: ₩ 24,000,000
+
+
+
+## Honors and Awards
+
+- **Outstanding Young Researcher/Student Poster Award (2nd prize)**, The 11th Conference of the Asian Regional Section of the International Association for Statistical Computing, Feb 2022.
+
+- **Da Vinci SW Hackathon (1st place)**, Da Vinci Software Education Institute, Chung-Ang University, Nov 2018.
