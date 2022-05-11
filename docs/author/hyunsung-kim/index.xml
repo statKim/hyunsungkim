@@ -5,47 +5,64 @@
     <link>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/author/hyunsung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunsung Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Wed, 23 Feb 2022 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/avatar_huc34d849711b1fb0966f165b8d59b5543_307558_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Hyunsung Kim</title>
       <link>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/</link>
     </image>
     
     <item>
-      <title>Functional principal component analysis for partially observed elliptical process</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
+      <title>Robust principal component analysis applicable to partially observed functional data</title>
+      <link>https://statkim.github.io/hyunsungkim/talk/robust-principal-component-analysis-applicable-to-partially-observed-functional-data/</link>
+      <pubDate>Wed, 23 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/robust-principal-component-analysis-applicable-to-partially-observed-functional-data/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 --&gt;
 </description>
     </item>
     
     <item>
-      <title>Association between the incidence of type 1 diabetes mellitus and tuberculosis or Bacillus Calmette‐Guérin immunization in children and adolescents: data from the International Diabetes Federation and World Health Organization</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-cau-hospital/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-cau-hospital/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Robust covariance estimation for partially observed functional data</title>
+      <link>https://statkim.github.io/hyunsungkim/talk/robust-covariance-estimation-for-partially-observed-functional-data/</link>
+      <pubDate>Wed, 21 Jul 2021 11:30:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/robust-covariance-estimation-for-partially-observed-functional-data/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
 </description>
     </item>
     
-    <item>
-      <title>Effect of chronic disease management led by small financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea</title>
+  </channel>
+</rss>
+ll financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea</title>
       <link>https://statkim.github.io/hyunsungkim/publication/2022-godang/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://statkim.github.io/hyunsungkim/publication/2022-godang/</guid>
@@ -55,31 +72,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bootstrap aggregated classification for sparse functional data</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2021-jas_bagfpca/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2021-jas_bagfpca/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
 </description>
     </item>
     
