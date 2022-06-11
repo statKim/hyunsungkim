@@ -46,12 +46,14 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 ## Grants
 
-- **CAU Graduate Research Scholarship**, The Graduate School of Chung-Ang University.
-  - Mar 2019 ~ Feb 2021 (M.S.), Mar 2021 ~ Feb 2023 (Ph.D.)
+- **CAU Graduate Research Scholarship**, Chung-Ang University.
+  - Mar 2021 ~ Feb 2023 (Ph.D.)
+  - Mar 2019 ~ Feb 2021 (M.S.)
   - Funding amount: Full-tuition
 
 - **Scholarship for Academic Excellence**, Chung-Ang University.
   - Mar 2014,  Mar 2018, Sep 2018
+  - Funding amount: 35%, 65%, and 65% tuition, respectively
 
 - **Scholarship for Human Resource Developments**, Nonghyup Foundation.
   - Mar 2013 ~ Feb 2019
@@ -61,6 +63,6 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 ## Honors and Awards
 
-- **Outstanding Young Researcher/Student Poster Award (2nd prize)**, The 11th Conference of the Asian Regional Section of the International Association for Statistical Computing, Feb 2022.
+- **Outstanding Young Researcher/Student Poster Award (2nd prize)**, The 11th Conference of the IASC-ARS, Feb 2022.
 
 - **Da Vinci SW Hackathon (1st place)**, Da Vinci Software Education Institute, Chung-Ang University, Nov 2018.

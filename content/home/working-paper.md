@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Working papers
-subtitle: 'Submitted / Under Review / In preperation'
+subtitle: 'Submitted / Under review / In preperation'
 
 content:
   # Page type to display. E.g. post, talk, publication...

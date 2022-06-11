@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Partially observed data | Hyunsung Kim</title>
+    <title>partially observed data | Hyunsung Kim</title>
     <link>https://statkim.github.io/hyunsungkim/tag/partially-observed-data/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/tag/partially-observed-data/index.xml" rel="self" type="application/rss+xml" />
-    <description>Partially observed data</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <description>partially observed data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Fri, 24 Jun 2022 13:30:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
-      <title>Partially observed data</title>
+      <title>partially observed data</title>
       <link>https://statkim.github.io/hyunsungkim/tag/partially-observed-data/</link>
     </image>
+    
+    <item>
+      <title>Functional principal component analysis for partially observed elliptical process</title>
+      <link>https://statkim.github.io/hyunsungkim/talk/functional-principal-component-analysis-for-partially-observed-elliptical-process/</link>
+      <pubDate>Fri, 24 Jun 2022 13:30:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/functional-principal-component-analysis-for-partially-observed-elliptical-process/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Functional principal component analysis for partially observed elliptical process</title>

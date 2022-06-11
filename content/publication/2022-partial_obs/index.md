@@ -12,7 +12,7 @@ date: "2021-12-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-24T00:00:00Z"
+publishDate: "2022-05-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publishDate: "2021-12-24T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted*"
+publication: "*Under review*"
 publication_short: ""
 
 abstract: We present the robust estimators of principal components for partially observed functional data with heavy-tail be- haviors, where sample trajectories are collected over individual-specific subinterval(s). We introduce the elliptical stochastic process to model non-Gaussian functional behaviors, formulate the partially sampled trajectories using the partial observation process, and propose implementing the robust functional principal component analysis under this framework. The proposed method is computationally efficient and straightforward by estimating the robust correlation function based on the pairwise covariance computation, combined with M-estimation. The asymptotic consistency of the estimators is established under general conditions. The superior performance of our method in the approximation of subspace of the data and reconstruction of full trajectories is demonstrated in simulation studies. We also apply the proposed method to hourly monitored air pollutant data, containing anomaly trajectories with random missing segments.

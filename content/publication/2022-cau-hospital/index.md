@@ -1,5 +1,5 @@
 ---
-title: "Association between the incidence of type 1 diabetes mellitus and tuberculosis or Bacillus Calmette‐Guérin immunization in children and adolescents: data from the International Diabetes Federation and World Health Organization"
+title: "Association between the incidence of type 1 diabetes and tuberculosis or BCG immunization"
 authors:
 - Ji-Young Park
 - Y-J Choe
@@ -20,7 +20,7 @@ publishDate: "2021-12-20T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review*"
+publication: "*Under review*"
 # publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
 publication_short: ""
 
