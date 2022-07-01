@@ -8,7 +8,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Corresponding author"
-date: "2021-12-24T00:00:00Z"
+date: "2022-07-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/statKim/robfpca'
+url_code: 'https://github.com/statKim/fpca-partial-obs-ellipt-proc'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
