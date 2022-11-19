@@ -43,11 +43,13 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
-## Lecturer
+## Instructor
 
 - Introduction to Statistics and Python Programming (Short course), *Department of Fashion Design, Dong-A University*, Pusan, South Korea, July 2021.
 
 ## Teaching Assistant
+
+- Multivariate Analysis (Graduate course), *Department of Statistics, Chung-Ang University*, Seoul, South Korea, Fall 2022.
 
 - Mathematical Statistics (Graduate course), *Department of Statistics, Chung-Ang University*, Seoul, South Korea, Spring 2022.
 

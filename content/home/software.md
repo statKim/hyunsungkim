@@ -46,3 +46,9 @@ Quickly discover relevant content by [filtering publications](./publication/).
 ## R-package
 - **robfpca**: Functional principal component analysis for partially observed elliptical process. Available on [GitHub](https://github.com/statKim/robfpca).
 
+## R-codes
+- **kCRFC**: Functional clustering on a sphere via Riemannian functional principal components. Available on [GitHub](https://github.com/statKim/kCRFC).
+
+- **bagfpca**: Bootstrap aggregated classification for sparse functional data. Available on [GitHub](https://github.com/statKim/bagfpca).
+
+

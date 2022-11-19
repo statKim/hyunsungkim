@@ -6,12 +6,12 @@ title: Hyunsung Kim
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Statistics
+role: Ph.D. Candidate (ABD)
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Chung-Ang University
-  url: https://sites.google.com/view/caumulti
+# # Organizations/Affiliations to show in About widget
+# organizations:
+# - name: Chung-Ang University
+#   url: https://sites.google.com/view/yaejilim
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
@@ -20,15 +20,14 @@ bio: My research interests include Functional Data Analysis and Non-Euclidean Da
 interests:
 - Functional Data Analysis
 - Non-Euclidean Data Analysis
-- Dimension Reduction
-- High-Dimensional Data Analysis
+- Statistical Dimension Reduction
 
 # Education to show in About widget
 education:
   courses:
-  # - course: Ph.D. in Statistics
-  #   institution: Chung-Ang University
-  #   year: 2026 (Expected)
+  - course: Ph.D. Candidate in Statistics
+    institution: Chung-Ang University
+    year: 2023 (drop-out)
   - course: M.A. in Statistics
     institution: Chung-Ang University
     year: 2021
@@ -77,10 +76,10 @@ highlight_name: true
 ---
 
 I am a Ph.D. student from [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
-I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/caumulti).
+I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/yaejilim).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 
-My research interests include functional data analysis, non-Euclidean data analysis, dimension reduction and high-dimensional data analysis.
+My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
 Currently, my main research work includes developing functional clustering and quantile based dimension reduction method for Riemannian functional data.
 
 I love R coding and making documents using Rmarkdown.
