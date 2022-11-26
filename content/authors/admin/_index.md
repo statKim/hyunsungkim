@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Candidate in Statistics
+  - course: Ph.D. Candidate (ABD) in Statistics
     institution: Chung-Ang University
-    year: 2023 (drop-out)
+    year: 2023
   - course: M.A. in Statistics
     institution: Chung-Ang University
     year: 2021

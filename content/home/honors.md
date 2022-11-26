@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Grants & Honors and Awards
+title: Honors and Awards
 subtitle: 
 
 content:
@@ -43,7 +43,27 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
+- **Outstanding Young Researcher/Student Poster Award (2nd prize)**, *The 11th Conference of the IASC-ARS*, Feb 2022.
 
+- **CAU Graduate Research Scholarship**, *Chung-Ang University*.
+  - Mar 2021 ~ Feb 2023 (Ph.D.)
+  - Mar 2019 ~ Feb 2021 (M.S.)
+  - Funding amount: Full-tuition
+
+- **Cum Laude**, Chung-Ang University
+  - Class rank: 4/31
+
+- **Da Vinci SW Hackathon (1st place)**, *Da Vinci Software Education Institute, Chung-Ang University*, Nov 2018.
+
+- **Scholarship for Academic Excellence**, *Chung-Ang University*.
+  - Mar 2014, Mar 2018, Sep 2018
+  - 1st in the class at Sep 2018 and Mar 2018
+  
+- **Scholarship for Human Resource Developments**, *Nonghyup Foundation*.
+  - Mar 2013 ~ Feb 2019
+  - Funding amount: 24,000,000 KRW
+
+<!--
 ## Grants
 
 - **CAU Graduate Research Scholarship**, Chung-Ang University.
@@ -66,3 +86,4 @@ Quickly discover relevant content by [filtering publications](./publication/).
 - **Outstanding Young Researcher/Student Poster Award (2nd prize)**, The 11th Conference of the IASC-ARS, Feb 2022.
 
 - **Da Vinci SW Hackathon (1st place)**, Da Vinci Software Education Institute, Chung-Ang University, Nov 2018.
+-->
