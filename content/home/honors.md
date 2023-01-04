@@ -43,17 +43,17 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
-- **Outstanding Young Researcher/Student Poster Award (2nd prize)**, *The 11th Conference of the IASC-ARS*, Feb 2022.
+- [**Outstanding Young Researcher/Student Poster Award (2nd prize)**](http://iascars.org/albums/iasc-ars-2022-in-kyoto/), *The 11th Conference of the IASC-ARS*, Feb 2022.
 
 - **CAU Graduate Research Scholarship**, *Chung-Ang University*.
   - Mar 2021 ~ Feb 2023 (Ph.D.)
   - Mar 2019 ~ Feb 2021 (M.S.)
   - Funding amount: Full-tuition
 
-- **Cum Laude**, Chung-Ang University
+- **Magna Cum Laude**, *Chung-Ang University*
   - Class rank: 4/31
 
-- **Da Vinci SW Hackathon (1st place)**, *Da Vinci Software Education Institute, Chung-Ang University*, Nov 2018.
+- [**Da Vinci SW Hackathon (1st place)**](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&P_TAB_NO=&TAB_NO=&BBS_SEQ=5530), *Da Vinci Software Education Institute, Chung-Ang University*, Nov 2018.
 
 - **Scholarship for Academic Excellence**, *Chung-Ang University*.
   - Mar 2014, Mar 2018, Sep 2018

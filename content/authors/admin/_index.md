@@ -6,12 +6,12 @@ title: Hyunsung Kim
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate (ABD)
+role: Ph.D. Student in Statistics
 
-# # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: Chung-Ang University
-#   url: https://sites.google.com/view/yaejilim
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Seoul National University
+  url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Candidate (ABD) in Statistics
-    institution: Chung-Ang University
-    year: 2023
+  - course: Ph.D. in Statistics
+    institution: Seoul National University
+    year: 2028 (Expected)
+  # - course: Ph.D. Candidate (ABD) in Statistics
+  #   institution: Chung-Ang University
+  #   year: 2023
   - course: M.A. in Statistics
     institution: Chung-Ang University
     year: 2021
@@ -75,9 +78,17 @@ email: "hyunsung1021@gmail.com"
 highlight_name: true
 ---
 
+<!--I am a Ph.D. student from [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Sungkyu Jung](https://jung.snu.ac.kr/).
+I am also a member of the [Statistical Learning Theory Lab](https://statlet.github.io/).-->
+I am a Ph.D. student from [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/).
+Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
+<!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
+
+<!--
 I am a Ph.D. student from [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
 I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/yaejilim).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
+-->
 
 My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
 Currently, my main research work includes developing functional clustering and quantile based dimension reduction method for Riemannian functional data.

@@ -5,7 +5,7 @@
     <link>https://statkim.github.io/hyunsungkim/post/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hyunsung Kim</copyright><lastBuildDate>Sat, 27 Nov 2021 11:29:39 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Sat, 27 Nov 2021 11:29:39 +0900</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -125,7 +125,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-512879634&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-781534692&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -135,7 +135,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-512879634&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-781534692&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
