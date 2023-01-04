@@ -80,7 +80,7 @@ highlight_name: true
 
 <!--I am a Ph.D. student from [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Sungkyu Jung](https://jung.snu.ac.kr/).
 I am also a member of the [Statistical Learning Theory Lab](https://statlet.github.io/).-->
-I am a Ph.D. student from [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/).
+I am a Ph.D. student in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
