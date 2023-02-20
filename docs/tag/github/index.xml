@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/tag/github/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>GitHub</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <title>GitHub</title>
+      <link>https://statkim.github.io/hyunsungkim/tag/github/</link>
+    </image>
+    
+    <item>
+      <title>R package 만들기 2</title>
+      <link>https://statkim.github.io/hyunsungkim/post/2022-07-17-rpackage-2/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/post/2022-07-17-rpackage-2/</guid>
+      <description>
+&lt;script src=&#34;https://statkim.github.io/hyunsungkim/post/2022-07-17-rpackage-2/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;license-추가하기&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;License 추가하기&lt;/h2&gt;
+&lt;p&gt;패키지의 License는 다음의 함수를 사용하여 생성할 수 있습니다.
+여기서는 흔하게 사용하는 MIT License를 사용해보겠습니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;usethis::use_mit_license()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;✓ Setting License field in DESCRIPTION to &amp;#39;MIT + file LICENSE&amp;#39;
+✓ Writing &amp;#39;LICENSE&amp;#39;
+✓ Writing &amp;#39;LICENSE.md&amp;#39;
+✓ Adding &amp;#39;^LICENSE\\.md$&amp;#39; to &amp;#39;.Rbuildignore&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;img/license_ex.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-함수-추가하기&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R 함수 추가하기&lt;/h2&gt;
+&lt;p&gt;이제 R package에 포함하고자 하는 함수를 생성해보겠습니다.
+우선 다음의 코드로 &lt;code&gt;R/my_Rfunction.R&lt;/code&gt; 파일을 생성할 수 있습니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;usethis::use_r(&amp;quot;my_Rfunction&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;✓ Setting active project to &amp;#39;/Users/hyunsung/Desktop/Rproject/fda.manifold&amp;#39;
+• Modify &amp;#39;R/my_Rfunction.R&amp;#39;
+• Call `use_test()` to create a matching test file&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;이제 &lt;code&gt;R/my_Rfunction.R&lt;/code&gt; 파일을 열어서 다음의 내용을 입력해줍니다.
+벡터를 받아와서 결측값을 제외하여 합하는 &lt;code&gt;add()&lt;/code&gt;라는 함수를 만들었는데요.
+&lt;strong&gt;패키지를 만들 때에 주의할 점으로 &lt;code&gt;base&lt;/code&gt; 함수가 아닌 다른 패키지에 포함되어 있는 함수를 사용할 경우에는 &lt;code&gt;패키지명::함수&lt;/code&gt;와 같은 방식으로 사용해야만 합니다.&lt;/strong&gt;
+여기서는 &lt;code&gt;stats&lt;/code&gt; 패키지에 있는 &lt;code&gt;na.omit()&lt;/code&gt; 함수를 사용하기 위해 &lt;code&gt;stats::na.omit()&lt;/code&gt;과 같이 입력해주었습니다.
+물론 패키지 이름을 생략하여 사용할 수 있는 방법이 있긴 하지만, 그보다는 작업시 &lt;strong&gt;다른 패키지 안의 같은 이름을 가진 함수끼리의 충돌을 방지&lt;/strong&gt;하는 차원에서 이러한 방식을 추천드립니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#&amp;#39; 함수 이름 (Title)
+#&amp;#39;
+#&amp;#39; 함수 설명 (Description)
+#&amp;#39; 여러 줄로도 적을 수 있음
+#&amp;#39;
+#&amp;#39; @param x 함수의 input parameter
+#&amp;#39; @export
+add &amp;lt;- function(x) {
+    sum(stats::na.omit(x))
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;#&#39;&lt;/code&gt;로 시작되는 부분은 함수의 설명을 적어주는 부분인데요. (이는 &lt;code&gt;roxygen2&lt;/code&gt;라는 패키지를 통해 변환해줍니다.)
+첫 번째 줄에는 함수의 이름(Title), 두 번째 문단에는 함수의 설명(Description)을 입력해주면 됩니다.
+&lt;code&gt;@param&lt;/code&gt;은 함수읠 input parameter(Arguments)와 그에 대한 설명을 적어주고, &lt;code&gt;@export&lt;/code&gt;는 이 함수를 패키지에 속해있는 함수로 사용하겠다라는 의미입니다.&lt;/p&gt;
+&lt;p&gt;다음의 코드로 위에서 생성한 함수의 manual를 생성해주게 되고, &lt;code&gt;man&lt;/code&gt; 폴더가 생성되고 그 안에 &lt;code&gt;add.Rd&lt;/code&gt;라는 manual 파일이 생성되게 됩니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;devtools::document()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;ℹ Updating fda.manifold documentation
+ℹ Loading fda.manifold
+Writing NAMESPACE
+Writing NAMESPACE
+Writing fda.manifold-package.Rd
+Writing add.Rd&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;img/ftn_man.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;다음과 같이 함수의 설명을 확인해보면, 우리가 입력해준 내용이 나타나는 것을 확인할 수 있습니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;?add&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;img/ex_ftn_help.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;패키지-check&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;패키지 check&lt;/h2&gt;
+&lt;p&gt;이제 &lt;code&gt;R CMD check&lt;/code&gt;를 통해 이 패키지가 정상적으로 사용될 수 있는지에 대한 확인을 해주어야 하는데요.
+이는 Rstudio에서 &lt;code&gt;Build&lt;/code&gt; 탭에 &lt;code&gt;Check&lt;/code&gt; 버튼을 눌러주거나&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/cmd_check.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;아래의 함수를 사용해주면 됩니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;devtools::check()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;아래와 같이 아무런 errors나 warnings, notes가 나타나지 않으면 현재 패키지 작동에 문제가 없다는 것을 의미합니다.
+만약 이 과정에서 문제가 있다는 메시지가 있을 경우, 내용을 보고 함수나 다른 설정을 수정해준 후에 다시 &lt;code&gt;R CMD check&lt;/code&gt;를 해주면 됩니다.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;0 errors ✓ | 0 warnings ✓ | 0 notes ✓
+
+R CMD check succeeded&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reference&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://r-pkgs.org/whole-game.html&#34; class=&#34;uri&#34;&gt;https://r-pkgs.org/whole-game.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.danieldsjoberg.com/writing-R-packages/&#34; class=&#34;uri&#34;&gt;http://www.danieldsjoberg.com/writing-R-packages/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R package 만들기 1</title>
+      <link>https://statkim.github.io/hyunsungkim/post/2022-07-04-rpackage-1/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/post/2022-07-04-rpackage-1/</guid>
+      <description>
+&lt;script src=&#34;https://statkim.github.io/hyunsungkim/post/2022-07-04-rpackage-1/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;오늘부터 &lt;strong&gt;R package&lt;/strong&gt;를 만들어서 GitHub을 통해 배포할 수 있는 방법에 대해 정리해보려 합니다.
+이 방법은 cran 대신, 개인 &lt;strong&gt;GitHub에 업로드하여 패키지를 다운 및 사용&lt;/strong&gt;할 수 있는 방법입니다. (아래 예시 코드에서 두번째 방식으로 패키지를 다운받는 방법입니다.)&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# cran에 있는 패키지 설치
+install.package(&amp;quot;패키지명&amp;quot;)
+
+# GitHub에 있는 패키지 설치
+devtools::install_github(&amp;quot;statKim/패키지명&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;그럼, 패키지를 만들고 GitHub에 업로드하는 것으로 먼저 시작해보죠!&lt;/p&gt;
+&lt;div id=&#34;패키지-만들기&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;패키지 만들기&lt;/h2&gt;
+&lt;p&gt;먼저 RStudio를 실행하고, &lt;code&gt;usethis&lt;/code&gt;라는 패키지를 먼저 설치해줍니다.
+&lt;code&gt;usethis&lt;/code&gt;에는 R 패키지 개발에 있어 여러 유용한 함수들이 들어있고, 이는 공식 홈페이지인 &lt;a href=&#34;https://usethis.r-lib.org/&#34; class=&#34;uri&#34;&gt;https://usethis.r-lib.org/&lt;/a&gt; 에서 확인할 수 있습니다.
+(웬만한 R 패키지 세팅에 대한 기능은 대부분 포함되어 있기 떄문에, 패키지에 포함할 함수 코드부분을 제외한 설정에 있어서는 되도록 &lt;strong&gt;usethis 패키지에 내장된 함수를 사용하기를 권장&lt;/strong&gt;합니다!)&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;install.packages(&amp;quot;usethis&amp;quot;) &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;usethis&lt;/code&gt; 패키지 안의 &lt;code&gt;usethis::create_package()&lt;/code&gt;라는 함수를 이용하여 &lt;strong&gt;패키지를 생성&lt;/strong&gt;할 수 있는데요.
+다음과 같이 함수 인자로 &lt;code&gt;Rproject_저장경로/패키지_이름&lt;/code&gt;을 넣어주면 됩니다. (여기서는 &lt;code&gt;fda.manifold&lt;/code&gt;라는 패키지를 만들어보겠습니다.)&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;usethis::create_package(&amp;quot;~/Desktop/Rproject/fda.manifold&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;✓ Creating &amp;#39;/Users/hyunsung/Desktop/Rproject/fda.manifold/&amp;#39;
+✓ Setting active project to &amp;#39;/Users/hyunsung/Desktop/Rproject/fda.manifold&amp;#39;
+✓ Creating &amp;#39;R/&amp;#39;
+✓ Writing &amp;#39;DESCRIPTION&amp;#39;
+Package: fda.manifold
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R (parsed):
+    * First Last &amp;lt;first.last@example.com&amp;gt; [aut, cre] (YOUR-ORCID-ID)
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+✓ Writing &amp;#39;NAMESPACE&amp;#39;
+✓ Writing &amp;#39;fda.manifold.Rproj&amp;#39;
+✓ Adding &amp;#39;^fda\\.manifold\\.Rproj$&amp;#39; to &amp;#39;.Rbuildignore&amp;#39;
+✓ Adding &amp;#39;.Rproj.user&amp;#39; to &amp;#39;.gitignore&amp;#39;
+✓ Adding &amp;#39;^\\.Rproj\\.user$&amp;#39; to &amp;#39;.Rbuildignore&amp;#39;
+✓ Opening &amp;#39;/Users/hyunsung/Desktop/Rproject/fda.manifold/&amp;#39; in new RStudio session
+✓ Setting active project to &amp;#39;&amp;lt;no active project&amp;gt;&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;그럼 위의 결과가 나오면서 새로운 RStudio 창이 열리게 되고, 아래의 그림의 구조를 가지는 &lt;strong&gt;Rproject가 생성&lt;/strong&gt;되게 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/create_package.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;패키지-document-생성&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;패키지 document 생성&lt;/h2&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;usethis::use_package_doc()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;✓ Setting active project to &amp;#39;/Users/hyunsung/Desktop/Rproject/fda.manifold&amp;#39;
+✓ Writing &amp;#39;R/fda.manifold-package.R&amp;#39;
+• Modify &amp;#39;R/fda.manifold-package.R&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;img/create_document.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git-사용&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;git 사용&lt;/h2&gt;
+&lt;p&gt;GitHub에 패키지를 업로드하기 위해서, &lt;strong&gt;git&lt;/strong&gt;을 사용하도록 설정해주어야 하는데요.
+다음의 코드를 입력하여 현재 Rproject를 git 폴더형태로 만들 수 있습니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;usethis::use_git()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;✓ Initialising Git repo
+✓ Adding &amp;#39;.Rhistory&amp;#39;, &amp;#39;.Rdata&amp;#39;, &amp;#39;.httr-oauth&amp;#39;, &amp;#39;.DS_Store&amp;#39; to &amp;#39;.gitignore&amp;#39;
+There are 6 uncommitted files:
+* &amp;#39;.gitignore&amp;#39;
+* &amp;#39;.Rbuildignore&amp;#39;
+* &amp;#39;DESCRIPTION&amp;#39;
+* &amp;#39;fda.manifold.Rproj&amp;#39;
+* &amp;#39;NAMESPACE&amp;#39;
+* &amp;#39;R/&amp;#39;
+Is it ok to commit them?
+
+1: Negative
+2: No way
+3: Yeah
+
+Selection: 3
+✓ Adding files
+✓ Making a commit with message &amp;#39;Initial commit&amp;#39;
+• A restart of RStudio is required to activate the Git pane
+Restart now?
+
+1: Absolutely not
+2: No
+3: Definitely
+
+Selection: 3&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;github-연결-및-repository-생성&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GitHub 연결 및 repository 생성&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이 부분은 기존에 RStudio를 본인의 GitHub 계정과 연결되어 있는 경우에 가능합니다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;로컬에서 git 폴더를 만들었으니, &lt;strong&gt;이제 GitHub 원격저장소에 올리면 끝입니다!&lt;/strong&gt;
+다음의 코드를 실행하면, 자동으로 본인의 GitHub에 패키지 이름으로 repository를 생성해주고 push까지 해주게 됩니다.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;usethis::use_github()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;ℹ Defaulting to &amp;#39;https&amp;#39; Git protocol
+✓ Setting active project to &amp;#39;/Users/hyunsung/Desktop/Rproject/fda.manifold&amp;#39;
+✓ Checking that current branch is default branch (&amp;#39;master&amp;#39;)
+✓ Creating GitHub repository &amp;#39;statKim/fda.manifold&amp;#39;
+✓ Setting remote &amp;#39;origin&amp;#39; to &amp;#39;https://github.com/statKim/fda.manifold.git&amp;#39;
+✓ Setting URL field in DESCRIPTION to &amp;#39;https://github.com/statKim/fda.manifold&amp;#39;
+✓ Setting BugReports field in DESCRIPTION to &amp;#39;https://github.com/statKim/fda.manifold/issues&amp;#39;
+There is 1 uncommitted file:
+* &amp;#39;DESCRIPTION&amp;#39;
+Is it ok to commit it?
+
+1: For sure
+2: Absolutely not
+3: Not now
+
+Selection: 1
+✓ Adding files
+✓ Making a commit with message &amp;#39;Add GitHub links to DESCRIPTION&amp;#39;
+✓ Pushing &amp;#39;master&amp;#39; branch to GitHub and setting &amp;#39;origin/master&amp;#39; as upstream branch
+✓ Opening URL &amp;#39;https://github.com/statKim/fda.manifold&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;그리고 자동으로 창 하나가 열리면서 다음의 GitHub repository에 잘 업로드되어 있는 것을 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/github_commit.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reference&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://r-pkgs.org/whole-game.html&#34; class=&#34;uri&#34;&gt;https://r-pkgs.org/whole-game.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.danieldsjoberg.com/writing-R-packages/&#34; class=&#34;uri&#34;&gt;http://www.danieldsjoberg.com/writing-R-packages/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

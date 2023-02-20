@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # - "Corresponding author"
-date: "2022-10-14T00:00:00Z"
+date: "2023-02-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publishDate: "2022-10-14T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted*"
+publication: "*under revision*"
 publication_short: ""
 
 abstract: We propose the functional clustering algorithm applicable to the sphere-valued random curves, called k-centres Riemannian functional clustering (kCRFC). It is based on Riemannian functional principal component scores and k-centres functional clustering algorithm, thus we can obtain accurate clustering results by reflecting the geometry of the sphere. Our method shows bet- ter clustering performances than existing multivariate functional clustering methods in various simulation settings. We apply the proposed method to the migration trajectories of Egyptian Vul- tures in the Middle East and East Africa, and fruit fly behaviors, containing the curves lied on two dimensional and three dimensional sphere, respectively.

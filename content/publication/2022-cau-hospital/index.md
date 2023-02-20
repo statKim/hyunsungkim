@@ -20,7 +20,7 @@ publishDate: "2021-12-20T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under review*"
+publication: "*under revision*"
 # publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
 publication_short: ""
 

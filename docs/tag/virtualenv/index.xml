@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtualenv | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/tag/virtualenv/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/virtualenv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virtualenv</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <title>Virtualenv</title>
+      <link>https://statkim.github.io/hyunsungkim/tag/virtualenv/</link>
+    </image>
+    
+    <item>
+      <title>Python 가상환경 만들기</title>
+      <link>https://statkim.github.io/hyunsungkim/post/2018-11-01-virtual-env/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/post/2018-11-01-virtual-env/</guid>
+      <description>&lt;h4 id=&#34;가상환경을-사용하는-이유&#34;&gt;가상환경을 사용하는 이유&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;여러 사람과 협업 또는 만들어 놓은 코드를 분석할 때 각 프로젝트마다 파이썬, 라이브러리 버전이 다름&lt;/li&gt;
+&lt;li&gt;이로 인해 기존 로컬에 영향이 가지 않는 별개의 가상환경을 만들고 그 안에서만 사용할 패키지를 설치하여 사용!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;1-conda를-사용하여-가상환경-만들기&#34;&gt;1. conda를 사용하여 가상환경 만들기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-생성&#34;&gt;가상환경 생성&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 아나콘다 버전 확인
+conda --version
+
+# 아나콘다 업데이트
+conda update conda
+
+# 아나콘다 가상환경 생성
+conda create --name 가상환경이름 파이썬버전
+# 예) 파이썬 3.6.4 버전 설치 &amp;amp; 가상환경 이름은 test
+conda create --name test python=3.6.4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-활성화-및-비활성화&#34;&gt;가상환경 활성화 및 비활성화&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 설치된 가상환경 리스트 확인
+conda info --envs
+
+# 가상환경 활성화
+activate 가상환경이름
+
+# 가상환경 비활성화
+deactivate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-패키지-설치-및-확인-가상환경-activate된-상태에서-실행&#34;&gt;가상환경 패키지 설치 및 확인 (가상환경 activate된 상태에서 실행)&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 가상환경에 설치된 package 확인
+pip list
+# or
+conda list
+
+# pip upgrade
+python -m pip install --upgrade pip
+
+# 필요한 library 한번에 설치
+pip install -r requirements.txt
+
+# 위 방법으로 안될 때는 아래에 있는 방법 사용해볼것!!
+# conda를 이용해서 package 설치
+conda install 패키지명
+# conda를 이용해서 한 번에 설치
+conda install --file requirements.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-삭제-root-계정으로-activate-후-삭제하는-것을-추천&#34;&gt;가상환경 삭제 (root 계정으로 activate 후 삭제하는 것을 추천)&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 가상환경 삭제
+conda remove --name 가상환경이름 --all
+# 예)
+conda remove --name test --all
+
+# 가상환경 삭제되었는지 확인
+conda info --envs
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;2-virtualenv를-사용하여-가상환경-만들기&#34;&gt;2. Virtualenv를 사용하여 가상환경 만들기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;virtualenv-설치&#34;&gt;virtualenv 설치&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;pip install virtualenv	
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-만들기&#34;&gt;가상환경 만들기&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;현재 경로에 가상환경 폴더 생성됨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 가상환경 폴더 생성할 경로로 이동
+cd 경로
+
+# 가상환경 생성
+virtualenv 가상환경이름	
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-활성화-및-패키지--설치&#34;&gt;가상환경 활성화 및 패키지  설치&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 가상환경 활성화
+call 경로/Script/activate
+# 활성화되면 terminal 왼쪽에 (가상환경이름)이 생긴다!!
+
+# 가상환경에 설치된 package 확인
+pip list
+
+# 필요한 library 한번에 설치
+# (requirements.txt에 필요 library 목록이 있음)
+# 가상환경 활성화된 상태에서!!
+pip install -r requirements.txt
+
+# 가상환경 비활성화
+deactivate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경-삭제&#34;&gt;가상환경 삭제&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경 폴더를 삭제하면 됨!!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;rm -rf 경로/가상환경이름 (리눅스)
+rmdir /s 경로/가상환경이름 (cmd - /s:하위 모든 파일 삭제)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;3-jupyter-notebook에서-가상환경-사용하기&#34;&gt;3. Jupyter notebook에서 가상환경 사용하기&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;가상환경에-새로운-kernel-만들기&#34;&gt;가상환경에 새로운 kernel 만들기&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;kernel 생성 경로 : &lt;code&gt;C:\Users\window계정명\AppData\Roaming\jupyter\kernels&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 가상환경 활성화
+activate &amp;lt;가상환경이름&amp;gt;
+
+# 가상환경에 ipykernel을 설치!!
+pip install ipykernel
+
+# jupyter notebook에서 가상환경(kernel)을 선택할 수 있게 만듬
+python -m ipykernel install --user --name 가상환경이름 --display-name &amp;quot;&amp;lt;kernel에 표현할 이름&amp;gt;&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;jupyter에-추가된-kernel-삭제하기&#34;&gt;jupyter에 추가된 kernel 삭제하기&lt;/h5&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cmd&#34;&gt;# 가상환경을 파이썬3로 만들기(만약 현재 파이썬 버전이 2.xx일 떄)
+virtualenv -p python3 &amp;lt;가상환경이름&amp;gt;
+
+# 현재 가지고 있는 kernel 종류
+jupyter kernelspec list
+
+# 생성한 kernel 지우는 방법
+jupyter kernelspec remove &amp;lt;지우고 싶은 kernel명&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;4-pycharm에서-가상환경-사용하기&#34;&gt;4. Pycharm에서 가상환경 사용하기&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;File&lt;/code&gt; -&amp;gt; &lt;code&gt;Settings&lt;/code&gt; -&amp;gt; &lt;code&gt;Project&lt;/code&gt; -&amp;gt; &lt;code&gt;Project Interpreter&lt;/code&gt; -&amp;gt; &lt;code&gt;+&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;-&amp;gt; 해당되는 가상환경 선택 (ex - &lt;code&gt;conda&lt;/code&gt; or &lt;code&gt;virtualenv&lt;/code&gt; 등)&lt;/p&gt;
+&lt;p&gt;-&amp;gt; &lt;code&gt;Existing environment&lt;/code&gt; 탭 클릭!!  -&amp;gt; &lt;code&gt;Interpreter&lt;/code&gt; 옆의 &lt;code&gt;...&lt;/code&gt; 클릭&lt;/p&gt;
+&lt;p&gt;-&amp;gt; 가상환경 폴더 내에 있는 &lt;code&gt;python.exe&lt;/code&gt; 경로 선택 (ex - &lt;code&gt;C:/Anaconda/envs/가상환경이름/python.exe&lt;/code&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://niceman.tistory.com/85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://niceman.tistory.com/85&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
