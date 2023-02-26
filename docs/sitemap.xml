@@ -138,11 +138,23 @@
   <url>
     <loc>https://statkim.github.io/hyunsungkim/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://statkim.github.io/hyunsungkim/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/gee/</loc><lastmod>2020-02-28T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://statkim.github.io/hyunsungkim/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/nhis-database/</loc><lastmod>2020-02-28T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://statkim.github.io/hyunsungkim/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://statkim.github.io/hyunsungkim/project/</loc><lastmod>2020-02-28T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/survival-analysis/</loc><lastmod>2020-02-28T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/project/2019-gyeonggi-godang/</loc><lastmod>2020-02-28T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/predictive-modeling/</loc><lastmod>2019-09-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/time-series/</loc><lastmod>2019-09-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/web-crawling/</loc><lastmod>2019-09-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/project/2019-hyundai-mobis/</loc><lastmod>2019-09-30T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hyunsungkim/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
   <url>
@@ -151,6 +163,12 @@
     <loc>https://statkim.github.io/hyunsungkim/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hyunsungkim/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/project/2018-da-vinci-sw-hackathon/</loc><lastmod>2018-11-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/machine-learning/</loc><lastmod>2018-11-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/tag/software-development/</loc><lastmod>2018-11-30T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://statkim.github.io/hyunsungkim/tag/conda/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -164,4 +182,6 @@
   <url>
     <loc>https://statkim.github.io/hyunsungkim/tag/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://statkim.github.io/hyunsungkim/admin/</loc></url></urlset>
+    <loc>https://statkim.github.io/hyunsungkim/admin/</loc></url>
+  <url>
+    <loc>https://statkim.github.io/hyunsungkim/links/</loc></url></urlset>

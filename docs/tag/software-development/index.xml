@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software development | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/tag/software-development/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>software development</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <title>software development</title>
+      <link>https://statkim.github.io/hyunsungkim/tag/software-development/</link>
+    </image>
+    
+    <item>
+      <title>Da Vinci SW Hackathon</title>
+      <link>https://statkim.github.io/hyunsungkim/project/2018-da-vinci-sw-hackathon/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/project/2018-da-vinci-sw-hackathon/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/statKim/Da_Vinci_SW_Hackathon/raw/master/image/demo1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a web application that predicts the congestion level of major tourist destinations named &amp;ldquo;눈치싸움 대작전&amp;rdquo; by &amp;ldquo;다섯명&amp;rdquo;, a five-member team.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed the web server using Python module flask, and constructed the database using sqlite3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constructed the LightGBM model to predict the congestion level of the places using foot traffic data from SKT.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The source codes of the program is available on &lt;a href=&#34;https://github.com/statKim/Da_Vinci_SW_Hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/statKim/Da_Vinci_SW_Hackathon&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

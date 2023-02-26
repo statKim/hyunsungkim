@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web crawling | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/tag/web-crawling/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/web-crawling/index.xml" rel="self" type="application/rss+xml" />
+    <description>web crawling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <title>web crawling</title>
+      <link>https://statkim.github.io/hyunsungkim/tag/web-crawling/</link>
+    </image>
+    
+    <item>
+      <title>빅데이터 기반 서비스부품 수요예측 강화</title>
+      <link>https://statkim.github.io/hyunsungkim/project/2019-hyundai-mobis/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/project/2019-hyundai-mobis/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed the program which get the text data related with specific keywords and transform it to tabular type using the Python with Selenium and Pandas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Preprocessed the weather data from KMA (Korea Meteorological Administration) API.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Preprocessed the demand dataset from the Hyundai Mobis database using SQL query and R with tidyverse.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gee | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/tag/gee/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/gee/index.xml" rel="self" type="application/rss+xml" />
+    <description>gee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
+      <title>gee</title>
+      <link>https://statkim.github.io/hyunsungkim/tag/gee/</link>
+    </image>
+    
+    <item>
+      <title>경기도 고혈압·당뇨병 등록관리사업 효과평가 분석</title>
+      <link>https://statkim.github.io/hyunsungkim/project/2019-gyeonggi-godang/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/project/2019-gyeonggi-godang/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Performed the statistical analysis on the difference of the death rate and PDC(Proportion of Days Covered) between patients who registered in the project and those who did not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The statistical software, SAS and SQL query were used to get the data from the NHIS (National Health Insurance Service) database and the analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Performed the survival analysis and GEE (Generalized estimating equation).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
