@@ -19,7 +19,7 @@ publishDate: "2022-05-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Applied Statistics, 49*(8), 2052–2063"
+publication: "*Journal of Applied Statistics*, 49(8), 2052–2063"
 publication_short: ""
 
 abstract: Sparse functional data are commonly observed in real-data analyzes. For such data, we propose a new classification method based on functional principal component analysis (FPCA) and bootstrap aggregating. Bootstrap aggregating is believed to improve the single classifier. In this paper, we apply this belief to an FPCA based clas- sification, and compare the classification performance with that of the single classifiers. The simulation results show that the proposed method performs better than the conventional single classifiers. We then conduct two real-data analyzes.

@@ -2,7 +2,7 @@
 title: "Association between the incidence of type 1 diabetes and tuberculosis or BCG immunization"
 authors:
 - Ji-Young Park
-- Y-J Choe
+- Young-June Choe
 - Yaeji Lim
 - admin
 # author_notes:

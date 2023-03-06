@@ -20,7 +20,7 @@ publishDate: "2021-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
+publication: "*The Korean Journal of Applied Statistics*, 34(2), 135–147"
 publication_short: ""
 
 abstract: Independent Component Analysis is a popular statistical method to separate independent signals from the mixed data, and Group Independent Component Analysis is an its multi-subject extension of Independent Com- ponent Analysis. It has been applied Functional Magnetic Resonance Imaging data and provides promising re- sults. However, classical Group Independent Component Analysis works poorly when outliers exist on data which is frequently occurred in Magnetic Resonance Imaging scanning. In this study, we propose a robust version of the Group Independent Component Analysis based on ROBPCA. Through the numerical studies, we compare proposed method to the conventional method, and verify the robustness of the proposed method.

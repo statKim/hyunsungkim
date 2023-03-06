@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # - "Corresponding author"
-date: "2023-02-18T00:00:00Z"
+date: "2023-03-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ publishDate: "2022-10-14T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*under revision*"
+publication: "*Stat*, accepted"
 publication_short: ""
 
-abstract: We propose the functional clustering algorithm applicable to the sphere-valued random curves, called k-centres Riemannian functional clustering (kCRFC). It is based on Riemannian functional principal component scores and k-centres functional clustering algorithm, thus we can obtain accurate clustering results by reflecting the geometry of the sphere. Our method shows bet- ter clustering performances than existing multivariate functional clustering methods in various simulation settings. We apply the proposed method to the migration trajectories of Egyptian Vul- tures in the Middle East and East Africa, and fruit fly behaviors, containing the curves lied on two dimensional and three dimensional sphere, respectively.
+abstract: We propose the functional clustering algorithm applicable to the sphere-valued random curves, called k-centres Riemannian functional clustering (kCRFC). It is based on Riemannian functional principal component scores and k-centres functional clustering algorithm, thus we can obtain accurate clustering results by reflecting the geometry of the sphere. Our method shows better clustering performances than existing multivariate functional clustering methods in various simulation settings. We apply the proposed method to the migration trajectories of Egyptian Vultures in the Middle East and East Africa, and fruit fly behaviors, containing the curves lied on two dimensional and three dimensional sphere, respectively.
 
 # Summary. An optional shortened abstract.
 summary: 

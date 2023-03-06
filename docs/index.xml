@@ -5,7 +5,7 @@
     <link>https://statkim.github.io/hyunsungkim/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunsung Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Hyunsung Kim</title>
@@ -108,10 +108,10 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Functional principal component analysis for partially observed elliptical process</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
+      <title>Functional clustering on a sphere via Riemannian functional principal components</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -126,10 +126,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Functional clustering on a sphere via Riemannian functional principal components</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</link>
-      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</guid>
+      <title>Functional principal component analysis for partially observed elliptical process</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -716,7 +716,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-874921356&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-426817539&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -726,7 +726,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-874921356&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-426817539&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
