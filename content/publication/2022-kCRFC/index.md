@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Corresponding author"
 date: "2023-03-06T00:00:00Z"
-doi: ""
+doi: "10.1002/sta4.557"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-14T00:00:00Z"
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1002/sta4.557
 url_code: 'https://github.com/statKim/kCRFC'
 # url_dataset: ''
 # url_poster: ''
