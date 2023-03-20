@@ -4,7 +4,7 @@ title: Robust covariance estimation for partially observed functional data
 event: BERNOULLI-IMS 10th WORLD CONGRESS in PROBABILITY and STATISTICS
 event_url: https://www.wc2020.org/index.php
 
-location: Seoul National University (Virtual conference)
+location: Seoul National University (Virtual)
 address:
   # street: 450 Serra Mall
   city: Seoul

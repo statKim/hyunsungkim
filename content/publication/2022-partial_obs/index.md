@@ -8,7 +8,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Corresponding author"
-date: "2023-02-19T00:00:00Z"
+date: "2023-03-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ publishDate: "2022-05-26T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*under revision*"
+publication: "*Computational Statistics & Data Analysis*, accepted"
 publication_short: ""
 
 abstract: We present the robust estimators of principal components for partially observed functional data with heavy-tail be- haviors, where sample trajectories are collected over individual-specific subinterval(s). We introduce the elliptical stochastic process to model non-Gaussian functional behaviors, formulate the partially sampled trajectories using the partial observation process, and propose implementing the robust functional principal component analysis under this framework. The proposed method is computationally efficient and straightforward by estimating the robust correlation function based on the pairwise covariance computation, combined with M-estimation. The asymptotic consistency of the estimators is established under general conditions. The superior performance of our method in the approximation of subspace of the data and reconstruction of full trajectories is demonstrated in simulation studies. We also apply the proposed method to hourly monitored air pollutant data, containing anomaly trajectories with random missing segments.
@@ -36,9 +36,9 @@ tags:
 - Robust functional principal component analysis
 featured: false
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Package
+  url: https://github.com/statKim/robfpca
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/statKim/fpca-partial-obs-ellipt-proc'
 # url_dataset: ''

@@ -4,7 +4,7 @@ title: Robust principal component analysis applicable to partially observed func
 event: The 11th Conference of the IASC-ARS (The Asian Regional Section of the International Association for Statistical Computing)
 event_url: https://iasc-ars2022.org/
 
-location: Doshisha University (Hybrid conference)
+location: Doshisha University (Virtual)
 address:
   # street: 450 Serra Mall
   city: Kyoto
@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: Japan
 
-summary: The 11th Conference of the Asian Regional Section of the International Association for Statistical Computing
+summary: The 11th Conference of the IASC-ARS (The Asian Regional Section of the International Association for Statistical Computing)
 abstract: "In recent years, applications have emerged that produce partially observed functional data, where each trajectory is collected over individual-specific subinterval(s) within the whole domain of interest. Robustness to atypical partially observed curves in the application is a practical concern, especially in the dimension reduction step through functional principal component analysis (FPCA). Existing studies implemented FPCA by applying smoothing techniques to estimate mean and covariance functions under irregular functional data structure, however, its estimation is easily affected by outlying curves with heavy-tailed noises or spikes. In this study, we investigate the robust method for the mean and covariance estimations by using bounded loss function, and it enables us to obtain robust functional principal components under partially observed functional data. Using the functional principal scores, we reconstruct the missing parts of trajectories. Numerical experiments show that our method provides a stable and robust estimation when the data contain the atypical curves."
 
 # Talk start and end times.

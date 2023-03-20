@@ -14,13 +14,16 @@ organizations:
   url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
+bio: My research interests include Statistical Machine Learning and Graphical Model Learning.
+# bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
 
 # Interests to show in About widget
 interests:
-- Functional Data Analysis
-- Non-Euclidean Data Analysis
-- Statistical Dimension Reduction
+- Statistical Machine Learning
+- Graphical Model Learning
+# - Functional Data Analysis
+# - Non-Euclidean Data Analysis
+# - Statistical Dimension Reduction
 
 # Education to show in About widget
 education:
@@ -81,9 +84,8 @@ email: "hyunsung1021@gmail.com"
 highlight_name: true
 ---
 
-<!--I am a Ph.D. student from [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Sungkyu Jung](https://jung.snu.ac.kr/).
-I am also a member of the [Statistical Learning Theory Lab](https://statlet.github.io/).-->
-I am a Ph.D. student in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/).
+I am a Ph.D. student in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Gunwoong Park](https://sites.google.com/view/gwpark).
+I am also a member of [Data Science & Machine Learning Lab](https://sites.google.com/view/gwpark/people?authuser=0).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
@@ -93,15 +95,14 @@ I am also a member of the [Multivariate Statistics Lab](https://sites.google.com
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 -->
 
+
 My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
 Currently, my main research work includes developing functional clustering and quantile based dimension reduction method for Riemannian functional data.
+
 
 I love R coding and making documents using Rmarkdown.
 I sometimes write on [my personal blog](https://statkim.github.io/) about Statistics, R, etc.
 
-<!--
-I have broad research interests in methodology and theory in causal inference, reinforcement learning, graphical model, and their interchanges, to establish reliable, powerful, and interpretable solutions to wide real-world problems. Currently, my main research work includes individualized optimal decision making with complex data, policy evaluation in reinforcement/deep learning, and causal discovery for high-dimensional individual mediation analysis, directly motivated by precision medicine, customized economics, personalized marketing, modern epidemiology, etc.
--->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1BE4L3BCqZO3jVBTvnYbm5e6JOdG_awd5/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
 <br>
