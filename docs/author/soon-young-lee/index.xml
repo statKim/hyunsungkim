@@ -1,30 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Hyunsung Kim</title>
-    <link>https://statkim.github.io/hyunsungkim/tag/source-themes/</link>
-      <atom:link href="https://statkim.github.io/hyunsungkim/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
+    <title>Soon Young Lee | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/author/soon-young-lee/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/author/soon-young-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soon Young Lee</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
-      <title>Source Themes</title>
-      <link>https://statkim.github.io/hyunsungkim/tag/source-themes/</link>
+      <title>Soon Young Lee</title>
+      <link>https://statkim.github.io/hyunsungkim/author/soon-young-lee/</link>
     </image>
-    
-    <item>
-      <title>Association between the incidence of type 1 diabetes and tuberculosis or BCG immunization</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Effect of motivated physicians and elderly patients with hypertension or type 2 diabetes mellitus in prepared communities on patient’s behaviors and outcomes: a population-based propensity score-matched retrospective cohort study over eight years</title>

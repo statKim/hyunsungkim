@@ -1,15 +1,17 @@
 ---
-title: "Effect of chronic disease management led by small financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea"
+title: "Effect of motivated physicians and elderly patients with hypertension or type 2 diabetes mellitus in prepared communities on patient’s behaviors and outcomes: a population-based propensity score-matched retrospective cohort study over eight years"
 authors:
-- Eunji Park
+- Eun Jee Park
 - admin
 - Yaeji Lim
-- Wonyoung Lee
-- Soonyoung Lee
+- Soon Young Lee
+- Weon-Young Lee
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-# - "Corresponding author"
+- 
+- "Corresponding author"
+- "Corresponding author"
 date: "2021-12-20T00:00:00Z"
 doi: ""
 

@@ -448,7 +448,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Effect of chronic disease management led by small financial incentives to old patients on medication adherence and health outcome in busy primary care clinics in South Korea</title>
+      <title>Effect of motivated physicians and elderly patients with hypertension or type 2 diabetes mellitus in prepared communities on patient’s behaviors and outcomes: a population-based propensity score-matched retrospective cohort study over eight years</title>
       <link>https://statkim.github.io/hyunsungkim/publication/2019-godang/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://statkim.github.io/hyunsungkim/publication/2019-godang/</guid>
@@ -716,7 +716,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-372159648&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-294173865&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -726,7 +726,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-372159648&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-294173865&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
