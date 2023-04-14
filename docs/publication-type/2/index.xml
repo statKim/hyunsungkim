@@ -5,7 +5,7 @@
     <link>https://statkim.github.io/hyunsungkim/publication-type/2/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Functional principal component analysis for partially observed elliptical process</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
+      <title>Functional clustering on a sphere via Riemannian functional principal components</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -31,10 +31,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Functional clustering on a sphere via Riemannian functional principal components</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</guid>
+      <title>Functional principal component analysis for partially observed elliptical process</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

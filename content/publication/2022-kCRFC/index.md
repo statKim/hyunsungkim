@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # - "Corresponding author"
-date: "2023-03-06T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: "10.1002/sta4.557"
 
 # Schedule page publish date (NOT publication's date).
