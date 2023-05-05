@@ -14,13 +14,14 @@ organizations:
   url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Machine Learning and Graphical Model Learning.
+bio: My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
 # bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
 
 # Interests to show in About widget
 interests:
 - Statistical Machine Learning
 - Graphical Model Learning
+- High-Dimensional Data Analysis
 # - Functional Data Analysis
 # - Non-Euclidean Data Analysis
 # - Statistical Dimension Reduction
@@ -95,10 +96,13 @@ I am also a member of the [Multivariate Statistics Lab](https://sites.google.com
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 -->
 
+My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
+Currently, my main research work includes developing the statistical method for differential network estimation.
 
+<!--
 My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
 Currently, my main research work includes developing functional clustering and quantile based dimension reduction method for Riemannian functional data.
-
+-->
 
 I love R coding and making documents using Rmarkdown.
 I sometimes write on [my personal blog](https://statkim.github.io/) about Statistics, R, etc.
