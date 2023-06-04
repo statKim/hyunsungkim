@@ -96,8 +96,10 @@ I am also a member of the [Multivariate Statistics Lab](https://sites.google.com
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 -->
 
+<!--
 My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
 Currently, my main research work includes developing the statistical method for differential network estimation.
+-->
 
 <!--
 My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
