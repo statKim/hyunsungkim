@@ -45,9 +45,13 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 ## Instructor
 
-- Introduction to Statistics and Python Programming (Short course), *Department of Fashion Design, Dong-A University*, Pusan, South Korea, July 2021.
+- Introduction to Statistics and Python Programming (Short course), *Department of Fashion Design, Dong-A University*, Virtual, Jul 2021.
 
 ## Teaching Assistant
+
+- Advanced Methods in Data Analysis and Lab, *Department of Statistics, Seoul National University*, Seoul, South Korea, Fall 2023.
+
+- Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences, Seoul National University*, Seoul, South Korea, Jul 2023.
 
 - Multivariate Analysis (Graduate course), *Department of Statistics, Chung-Ang University*, Seoul, South Korea, Fall 2022.
 

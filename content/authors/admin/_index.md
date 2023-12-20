@@ -22,9 +22,9 @@ interests:
 - Statistical Machine Learning
 - Graphical Model Learning
 - High-Dimensional Data Analysis
-# - Functional Data Analysis
+- Functional Data Analysis
 # - Non-Euclidean Data Analysis
-# - Statistical Dimension Reduction
+- Statistical Dimension Reduction
 
 # Education to show in About widget
 education:
