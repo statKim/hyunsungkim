@@ -1,14 +1,15 @@
 ---
-title: "Association between the incidence of type 1 diabetes and tuberculosis or BCG immunization"
+title: "Association between the incidence of type 1 diabetes mellitus and tuberculosis or bacillus Calmette-Guérin immunization in children and adolescents"
 authors:
-- Ji-Young Park
-- Young-June Choe
+- Ji Young Park
+- Young June Choe
 - Yaeji Lim
 - admin
+- Jaehyun Kim
 # author_notes:
 # - Equal contribution
-date: "2021-12-20T00:00:00Z"
-doi: ""
+date: "2023-12-31T00:00:00Z"
+doi: "10.6065/apem.2244254.127"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-20T00:00:00Z"
@@ -17,26 +18,29 @@ publishDate: "2021-12-20T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*under revision*"
-# publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
+publication: "*Annals of Pediatric Endocrinology & Metabolism*, 28(4), 251-257"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: <h4>Purpose</h4> The correlation between the incidence of type 1 diabetes mellitus (T1DM) and tuberculosis or bacillus Calmette-Guérin (BCG) vaccination rate in individuals aged <15 years was investigated using worldwide data. <h4> Methods </h4> The incidence of T1DM, rate of BCG vaccination, and incidence of tuberculosis were obtained from the Diabetes Atlas 9th edition of the International Diabetes Federation and the Global Health Observatory data repository of the World Health Organization. Gross domestic product (GDP) per capita and population data by country were obtained from the World Bank and United Nations, respectively. <h4> Results </h4> GDP per capita negatively correlated with the incidence of tuberculosis and positively correlated with the incidence of T1DM (coefficient=-0.630 and 0.596, respectively; all P<0.001). The incidence of T1DM and tuberculosis was significantly associated with the Organisation for Economic Cooperation and Development (OECD) status (P<0.001). After adjusting for GDP per capita, regional grouping, and OECD status, the incidence of T1DM negatively correlated with that of tuberculosis (R2 =0.729, P=0.009). However, there was no association between the BCG vaccination rate and incidence of T1DM (P=0.890). <h4> Conclusions </h4> There was a negative correlation between the incidence of tuberculosis and T1DM in children and adolescents aged <15 years at the country level.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+- Association
+- Type 1 diabetes mellitus
+- Mycobacterium bovis
+- Tuberculosis
 featured: false
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.6065/apem.2244254.127
 # url_code: 'https://github.com/statKim/robfpca'
 # url_dataset: ''
 # url_poster: ''
@@ -68,8 +72,10 @@ featured: false
 # slides: example
 ---
 
+<!--
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+-->

@@ -5,7 +5,7 @@
     <link>https://statkim.github.io/hyunsungkim/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunsung Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Hyunsung Kim</copyright><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Hyunsung Kim</title>
@@ -105,6 +105,24 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Association between the incidence of type 1 diabetes mellitus and tuberculosis or bacillus Calmette-Guérin immunization in children and adolescents</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
     </item>
     
     <item>
@@ -448,20 +466,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Association between the incidence of type 1 diabetes and tuberculosis or BCG immunization</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>2020 12 01 R Rmarkdown</title>
       <link>https://statkim.github.io/hyunsungkim/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Sat, 27 Nov 2021 11:29:39 +0900</pubDate>
@@ -716,7 +720,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-635794128&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731465892&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -726,7 +730,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-635794128&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731465892&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
