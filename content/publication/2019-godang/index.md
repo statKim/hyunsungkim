@@ -1,5 +1,5 @@
 ---
-title: "Effect of motivated physicians and elderly patients with hypertension or type 2 diabetes mellitus in prepared communities on patient’s behaviors and outcomes: a population-based propensity score-matched retrospective cohort study over eight years"
+title: "Effect of motivated physicians and elderly patients with hypertension or type 2 diabetes mellitus in prepared communities on health behaviours and outcomes: a population‐based PS matched retrospective cohort study during five‐year follow‐up period"
 authors:
 - Eun Jee Park
 - admin
@@ -12,7 +12,7 @@ author_notes:
 - 
 - "Corresponding author"
 - "Corresponding author"
-date: "2023-04-13T00:00:00Z"
+date: "2024-01-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +22,10 @@ publishDate: "2021-12-20T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*under revision*"
+publication: "*Plos one*, Accepted"
 # publication: "*The Korean Journal of Applied Statistics, 34*(2), 135–147"
 publication_short: ""
 

@@ -49,6 +49,21 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 ## Teaching Assistant
 
+#### Seoul National University
+
+- Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2023.
+
+- Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences*, Jul 2023.
+
+#### Chung-Ang University
+
+- Multivariate Analysis (Graduate course), *Department of Statistics*, Fall 2022.
+
+- Mathematical Statistics (Graduate course), *Department of Statistics*, Spring 2022.
+
+- Introduction to Statistical Learning, *Department of Applied Statistics*, Fall 2019.
+
+<!--
 - Advanced Methods in Data Analysis and Lab, *Department of Statistics, Seoul National University*, Seoul, South Korea, Fall 2023.
 
 - Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences, Seoul National University*, Seoul, South Korea, Jul 2023.
@@ -58,3 +73,4 @@ Quickly discover relevant content by [filtering publications](./publication/).
 - Mathematical Statistics (Graduate course), *Department of Statistics, Chung-Ang University*, Seoul, South Korea, Spring 2022.
 
 - Introduction to Statistical Learning, *Department of Applied Statistics, Chung-Ang University*, Seoul, South Korea, Fall 2019.
+-->
