@@ -14,17 +14,18 @@ organizations:
   url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
+bio: My research interests include High-Dimensional Data Analysis and Functional Data Analysis.
+# bio: My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
 # bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning
-- Graphical Model Learning
+# - Statistical Machine Learning
+# - Graphical Model Learning
 - High-Dimensional Data Analysis
 - Functional Data Analysis
-# - Non-Euclidean Data Analysis
 - Statistical Dimension Reduction
+- Non-Euclidean Data Analysis
 
 # Education to show in About widget
 education:
@@ -85,8 +86,8 @@ email: "hyunsung1021@gmail.com"
 highlight_name: true
 ---
 
-I am a Ph.D. student in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Gunwoong Park](https://sites.google.com/view/gwpark).
-I am also a member of [Data Science & Machine Learning Lab](https://sites.google.com/view/gwpark/people?authuser=0).
+I am a Ph.D. student in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Junyong Park](https://hdmtlab.github.io/people/junyong_park/index.html).
+I am also a member of [High Dimensional Multiple Testing Lab](https://hdmtlab.github.io/).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
