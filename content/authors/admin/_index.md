@@ -14,16 +14,14 @@ organizations:
   url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include High-Dimensional Data Analysis and Functional Data Analysis.
-# bio: My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
+bio: My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Multiple Testing.
 # bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
 
 # Interests to show in About widget
 interests:
-# - Statistical Machine Learning
-# - Graphical Model Learning
-- High-Dimensional Data Analysis
 - Functional Data Analysis
+- High-Dimensional Data Analysis
+- Multiple Testing
 - Statistical Dimension Reduction
 - Non-Euclidean Data Analysis
 
@@ -91,16 +89,15 @@ I am also a member of [High Dimensional Multiple Testing Lab](https://hdmtlab.gi
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
+My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Multiple Testing.
+Currently, my main research lies in classification and FDR control for functional data.
+
 <!--
-I am a Ph.D. student from [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
+I am a Ph.D. student in the [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
 I am also a member of the [Multivariate Statistics Lab](https://sites.google.com/view/yaejilim).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 -->
 
-<!--
-My research interests include Statistical Machine Learning, Graphical Model Learning and High-Dimensional Data Analysis.
-Currently, my main research work includes developing the statistical method for differential network estimation.
--->
 
 <!--
 My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
