@@ -51,6 +51,10 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 #### Seoul National University
 
+- Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2024.
+
+- Statistical Prediction, *Institute for Data Innovation in Science*, Aug 2024.
+
 - Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2023.
 
 - Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences*, Jul 2023.

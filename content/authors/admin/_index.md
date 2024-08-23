@@ -14,15 +14,15 @@ organizations:
   url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Multiple Testing.
+bio: My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Conformal Prediction.
 # bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
 
 # Interests to show in About widget
 interests:
 - Functional Data Analysis
 - High-Dimensional Data Analysis
+- Conformal Prediction
 - Multiple Testing
-- Statistical Dimension Reduction
 - Non-Euclidean Data Analysis
 
 # Education to show in About widget
@@ -90,7 +90,7 @@ Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics a
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
 My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Multiple Testing.
-Currently, my main research lies in classification and FDR control for functional data.
+<!--Currently, my main research lies in classification and FDR control for functional data.-->
 
 <!--
 I am a Ph.D. student in the [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
