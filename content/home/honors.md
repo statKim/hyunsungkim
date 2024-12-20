@@ -43,7 +43,9 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
-- [**Outstanding Young Researcher/Student Poster Award (2nd prize)**](http://iascars.org/albums/iasc-ars-2022-in-kyoto/), *The 11th Conference of the IASC-ARS*, Feb 2022.
+- **Best Student Oral Presentation Award (4th Prize)**, *The Korean Statistical Society Summer Conference*, Jun 2022.
+
+- [**Outstanding Young Researcher/Student Poster Award (2nd Prize)**](http://iascars.org/albums/iasc-ars-2022-in-kyoto/), *The 11th Conference of the IASC-ARS*, Feb 2022.
 
 - **CAU Graduate Research Scholarship**, *Chung-Ang University*.
   - Mar 2021 ~ Feb 2023 (Ph.D.)

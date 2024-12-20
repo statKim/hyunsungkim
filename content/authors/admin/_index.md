@@ -6,7 +6,7 @@ title: Hyunsung Kim
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Statistics
+role: Ph.D. Candidate in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -84,7 +84,7 @@ email: "hyunsung1021@gmail.com"
 highlight_name: true
 ---
 
-I am a Ph.D. student in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Junyong Park](https://hdmtlab.github.io/people/junyong_park/index.html).
+I am a Ph.D. candidate in the [Department of Statistics](https://stat.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Junyong Park](https://hdmtlab.github.io/people/junyong_park/index.html).
 I am also a member of [High Dimensional Multiple Testing Lab](https://hdmtlab.github.io/).
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
