@@ -13,6 +13,7 @@ header:
   image: ""
 ---
 
+<!--
 ## School
 
 - [Department of Statistics, Seoul National University](https://stat.snu.ac.kr/)
@@ -20,12 +21,17 @@ header:
 
 
 ## Statisticians
+-->
 
+
+## Useful Links or Programs
+
+- [LaTeX Table Generator](https://www.tablesgenerator.com/)
+- [Mathpix](https://mathpix.com/)
 
 
 ## Miscellaneous
 
-- [LaTeX Mathematical Symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-- [LaTeX Mathematical Symbols 2](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
-- [LaTeX Table Generator](https://www.tablesgenerator.com/)
-- [Mathpix](https://mathpix.com/)
+- [Rcpp Tutorial](https://statkim.github.io/rcpp-tutorial/) (written in Korean by me)
+- [Personal Blog](https://statkim.github.io/) (written in Korean by me)
+

@@ -43,21 +43,18 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
-## Instructor
-
-- Introduction to Statistics and Python Programming (Short course), *Department of Fashion Design, Dong-A University*, Virtual, Jul 2021.
 
 ## Teaching Assistant
 
 #### Seoul National University
 
-- Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2024.
+- Statistical Prediction, *Institute for Data Innovation in Science*.
+  - Winter 2025, Summer 2024
 
-- Statistical Prediction, *Institute for Data Innovation in Science*, Aug 2024.
+- Advanced Methods in Data Analysis and Lab, *Department of Statistics*.
+  - Fall 2024, Fall 2023
 
-- Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2023.
-
-- Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences*, Jul 2023.
+- Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences*, Summer 2023
 
 #### Chung-Ang University
 
@@ -66,6 +63,32 @@ Quickly discover relevant content by [filtering publications](./publication/).
 - Mathematical Statistics (Graduate course), *Department of Statistics*, Spring 2022.
 
 - Introduction to Statistical Learning, *Department of Applied Statistics*, Fall 2019.
+
+#### Others
+
+- Introduction to Statistics and Python Programming, *Department of Fashion Design, Dong-A University*, Virtual, Summer 2021.
+
+<!--
+#### Seoul National University
+
+- Statistical Prediction, *Institute for Data Innovation in Science*, Winter 2025.
+
+- Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2024.
+
+- Statistical Prediction, *Institute for Data Innovation in Science*, Summer 2024.
+
+- Advanced Methods in Data Analysis and Lab, *Department of Statistics*, Fall 2023.
+
+- Science Camp for High School Students in College of Natural Sciences, *College of Natural Sciences*, Summer 2023.
+
+#### Chung-Ang University
+
+- Multivariate Analysis (Graduate course), *Department of Statistics*, Fall 2022.
+
+- Mathematical Statistics (Graduate course), *Department of Statistics*, Spring 2022.
+
+- Introduction to Statistical Learning, *Department of Applied Statistics*, Fall 2019.
+-->
 
 <!--
 - Advanced Methods in Data Analysis and Lab, *Department of Statistics, Seoul National University*, Seoul, South Korea, Fall 2023.
