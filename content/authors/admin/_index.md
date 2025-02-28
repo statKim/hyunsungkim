@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Statistics
     institution: Seoul National University
-    year: 2028 (Expected)
+    year: 2027 (Expected)
   # - course: Ph.D. Candidate (ABD) in Statistics
   #   institution: Chung-Ang University
   #   year: 2023
