@@ -5,12 +5,30 @@
     <link>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/author/hyunsung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunsung Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Hyunsung Kim</copyright><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Hyunsung Kim</copyright><lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/avatar_huc34d849711b1fb0966f165b8d59b5543_307558_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hyunsung Kim</title>
       <link>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/</link>
     </image>
+    
+    <item>
+      <title>Conformal Outlier Detection for Multivariate Functional Data</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2025-foutlier_cp/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2025-foutlier_cp/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Classification of Multivariate Functional Data with an application to ADHD fMRI Data</title>
