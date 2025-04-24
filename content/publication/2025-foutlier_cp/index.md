@@ -34,7 +34,7 @@ summary:
 # - name: Package
 #   url: https://github.com/statKim/robfpca
 # url_pdf: https://doi.org/10.1016/j.csda.2023.107745
-# url_code: 'https://github.com/statKim/fpca-partial-obs-ellipt-proc'
+url_code: 'https://github.com/statKim/foutlier_cp'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
