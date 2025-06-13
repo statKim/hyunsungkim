@@ -21,7 +21,6 @@ bio: My research interests include Functional Data Analysis, High-Dimensional Da
 interests:
 - Functional Data Analysis
 - High-Dimensional Data Analysis
-- Conformal Prediction
 - Multiple Testing
 - Non-Euclidean Data Analysis
 
