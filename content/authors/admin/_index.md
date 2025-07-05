@@ -14,8 +14,7 @@ organizations:
   url: https://stat.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Conformal Prediction.
-# bio: My research interests include Functional Data Analysis and Non-Euclidean Data Analysis.
+bio: My research interests include functional and high-dimensional data analysis.
 
 # Interests to show in About widget
 interests:
