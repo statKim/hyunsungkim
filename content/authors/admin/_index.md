@@ -19,8 +19,9 @@ bio: My research interests include functional and high-dimensional data analysis
 # Interests to show in About widget
 interests:
 - Functional Data Analysis
+- Functional Data in High-Dimension
 - High-Dimensional Data Analysis
-- Multiple Testing
+- Statistical Dimension Reduction
 - Non-Euclidean Data Analysis
 
 # Education to show in About widget
@@ -87,8 +88,8 @@ I am also a member of [High Dimensional Multiple Testing Lab](https://hdmtlab.gi
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at [Chung-Ang University](https://stat.cau.ac.kr/) under the supervision of Prof. [Yaeji Lim](https://sites.google.com/site/yaejilim).
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
-My research interests include Functional Data Analysis, High-Dimensional Data Analysis, and Multiple Testing.
-<!--Currently, my main research lies in classification and FDR control for functional data.-->
+My research interests include functional and high-dimensional data analysis.
+Currently, my main research lies in the statistical test and modelling for high-dimensional functional data.
 
 <!--
 I am a Ph.D. student in the [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).
@@ -96,15 +97,10 @@ I am also a member of the [Multivariate Statistics Lab](https://sites.google.com
 Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics at Chung-Ang University.
 -->
 
-
 <!--
-My research interests include Functional Data Analysis, Non-Euclidean Data Analysis and Statistical Dimension Reduction.
-Currently, my main research work includes developing functional clustering and quantile based dimension reduction method for Riemannian functional data.
--->
-
 I love R coding and making documents using Rmarkdown.
 I sometimes write on [my personal blog](https://statkim.github.io/) about Statistics, R, etc.
-
+-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1BE4L3BCqZO3jVBTvnYbm5e6JOdG_awd5/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
 <br>
