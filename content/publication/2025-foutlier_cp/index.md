@@ -27,8 +27,14 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-# tags:
-# featured: false
+tags:
+- Conformal inference
+- Outlier detection
+- Multivariate functional data
+- Functional depth
+- Multiple testing
+- False discovery rate
+featured: false
 
 # links:
 # - name: Package

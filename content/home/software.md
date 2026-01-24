@@ -44,7 +44,11 @@ Quickly discover relevant content by [filtering publications](./publication/).
 -->
 
 ## R-package
-- **robfpca**: Functional principal component analysis for partially observed elliptical process. Available on [GitHub](https://github.com/statKim/robfpca).
+
+- **hdfda** ([GitHub](https://github.com/statKim/hdfda)): High-dimensional functional data analysis.
+
+- **robfpca** ([GitHub](https://github.com/statKim/robfpca)): Functional principal component analysis for partially observed elliptical process. 
+<!-- Available on [GitHub](https://github.com/statKim/robfpca). -->
 
 <!--
 ## R-codes
