@@ -18,11 +18,10 @@ bio: My research interests include functional and high-dimensional data analysis
 
 # Interests to show in About widget
 interests:
-- Functional Data Analysis
-- Functional Data in High-Dimension
-- High-Dimensional Data Analysis
-- Statistical Dimension Reduction
-- Non-Euclidean Data Analysis
+- Functional data analysis
+- High-dimensional data analysis
+- Statistical dimension reduction
+- Non-Euclidean data analysis
 
 # Education to show in About widget
 education:
