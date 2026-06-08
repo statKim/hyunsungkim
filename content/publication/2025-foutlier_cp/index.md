@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2026-05-22T00:00:00Z"
+date: "2026-06-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publishDate: "2025-09-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computational Statistics*, accepted"
+publication: "*Computational Statistics*, 41(4), 88"
 publication_short: ""
 
-abstract: 
+abstract: Detecting outliers in multivariate functional data is crucial in a range of applications, including biomedical signal analysis and environmental monitoring. Existing methods primarily focus on identifying outliers within a given dataset but lack a principled approach for determining whether newly observed functional data deviate from a reference population. To address this limitation, we extend the conformal outlier detection framework of Bates et al. (2023) to the multivariate functional setting. A key challenge in this extension is defining appropriate nonconformity scores that effectively capture the structure of multivariate functional observations. We propose a novel nonconformity score based on the multivariate functional depth measure, which assess the centrality of an observation within a functional data distribution. This approach ensures the false discovery rate (FDR) control while offering a flexible, distribution-free method for functional outlier detection. We further introduce two practical enhancements; (i) leveraging curve transformations to improve the detection of shape outliers, and (ii) developing a two-step procedure to handle mixed training sets where the reference data may already contain outliers. The effectiveness of the proposed method is demonstrated through simulation studies and a real-data application using fMRI signals from the ADHD-200 dataset.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -37,9 +37,7 @@ tags:
 featured: false
 
 # links:
-# - name: Package
-#   url: https://github.com/statKim/robfpca
-# url_pdf: https://doi.org/10.1016/j.csda.2023.107745
+url_pdf: https://doi.org/10.1007/s00180-026-01763-1
 url_code: 'https://github.com/statKim/foutlier_cp'
 # url_dataset: ''
 # url_poster: ''
