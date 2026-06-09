@@ -9,7 +9,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-09-10T00:00:00Z"
+date: "2026-06-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: "2025-06-29T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Applied Statistics*, accepted"
+publication: "*Journal of Applied Statistics*, 53(8), 1515-1537"
 publication_short: ""
 
 abstract: The classification of resting-state functional magnetic resonance imaging (rs-fMRI) data presents unique challenges in the detection and diagnosis of neuropsychiatric disorders such as Attention-Deficit/Hyperactivity Disorder (ADHD). Traditional classification approaches often prove inadequate when handling complex spatiotemporal patterns and high-dimensional fMRI data, particularly when significant variations exist both between and within diagnostic groups. To address these limitations, we introduce a novel classification framework that integrates three complementary analytical components; elastic registration for curve alignment, geometric curve length computation for capturing signal variability, and sparse principal component analysis for dimensionality reduction. Extensive simulation studies show that our proposed method significantly outperforms existing approaches, especially in scenarios where groups exhibit distinct variation patterns rather than mean differences in their functional curves. When applied to the ADHD-200 dataset, our method achieves classification accuracy rates substantially exceeding conventional approaches. The proposed framework's ability to capture subtle variability differences while maintaining computational efficiency makes it particularly valuable for biomarker discovery and clinical applications in neuropsychiatric research. Our approach's focus on signal variability rather than mean activation patterns offers new insights into the dynamic nature of brain activity differences in ADHD and provides a promising foundation for analyzing other neurological conditions.
@@ -34,7 +34,7 @@ summary:
 # featured: false
 
 # links:
-# url_pdf: 
+url_pdf: https://doi.org/10.1080/02664763.2025.2567979
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

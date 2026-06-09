@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>Classification of Multivariate Functional Data with an application to ADHD fMRI Data</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2024-fmri_classification/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2024-fmri_classification/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Conformal Outlier Detection for Multivariate Functional Data</title>
       <link>https://statkim.github.io/hyunsungkim/publication/2025-foutlier_cp/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
@@ -35,24 +53,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://statkim.github.io/hyunsungkim/publication/2026-hdfd_proj_test/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://statkim.github.io/hyunsungkim/publication/2026-hdfd_proj_test/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Classification of Multivariate Functional Data with an application to ADHD fMRI Data</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2024-fmri_classification/</link>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2024-fmri_classification/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
