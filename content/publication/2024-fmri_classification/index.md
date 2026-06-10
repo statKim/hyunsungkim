@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2026-06-08T00:00:00Z"
-doi: ""
+doi: "10.1080/02664763.2025.2567979"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-29T00:00:00Z"
