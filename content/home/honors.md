@@ -44,7 +44,7 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
-## Researach Grants
+## Research Grants
 
 - **Research Subsidies for Ph.D. Candidates (박사과정생 연구장려금)**, *National Research Foundation of Korea*.
   - Sep 2026 ~ Aug 2027
