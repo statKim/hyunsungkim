@@ -88,7 +88,7 @@ Prior to that, I received my M.A. in Statistics and B.A. in Applied Statistics a
 <!--I was also a member of the [Multivariate Statistics Lab](https://sites.google.com/site/yaejilim).-->
 
 My research interests include functional and high-dimensional data analysis.
-Currently, my main research lies in the statistical test and modelling for high-dimensional functional data.
+Currently, my main research lies in the statistical inference and modelling for high-dimensional functional data.
 
 <!--
 I am a Ph.D. student in the [Department of Statistics](http://stat.cau.ac.kr/) at [Chung-Ang University](https://www.cau.ac.kr/), under the supervision of [Prof. Yaeji Lim](https://sites.google.com/site/yaejilim).

@@ -9,7 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Honors and Awards
+# title: Honors and Awards
+title: Honors, Awards and Grants
 subtitle: 
 
 content:
@@ -43,13 +44,21 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 -->
 
+## Researach Grants
+
+- **Research Subsidies for Ph.D. Candidates (박사과정생 연구장려금)**, *National Research Foundation of Korea*.
+  - Sep 2026 ~ Aug 2027
+  - Role: Principal Investigator (PI)
+  - Annual research budget: 25,000,000 KRW
+
+## Honors and Awards
+
 - **Best Student Oral Presentation Award (4th Prize)**, *The Korean Statistical Society Summer Conference*, Jun 2022.
 
 - [**Outstanding Young Researcher/Student Poster Award (2nd Prize)**](http://iascars.org/albums/iasc-ars-2022-in-kyoto/), *The 11th Conference of the IASC-ARS*, Feb 2022.
 
 - **CAU Graduate Research Scholarship**, *Chung-Ang University*.
-  - Mar 2021 ~ Feb 2023 (Ph.D.)
-  - Mar 2019 ~ Feb 2021 (M.S.)
+  - Mar 2019 ~ Feb 2023
   - Funding amount: Full-tuition
 
 - **Magna Cum Laude**, *Chung-Ang University*
