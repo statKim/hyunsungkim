@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>functional principal component analysis | Hyunsung Kim</title>
-    <link>https://statkim.github.io/hyunsungkim/tag/functional-principal-component-analysis/</link>
-      <atom:link href="https://statkim.github.io/hyunsungkim/tag/functional-principal-component-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>functional principal component analysis</description>
+    <title>empirical Bayes | Hyunsung Kim</title>
+    <link>https://statkim.github.io/hyunsungkim/tag/empirical-bayes/</link>
+      <atom:link href="https://statkim.github.io/hyunsungkim/tag/empirical-bayes/index.xml" rel="self" type="application/rss+xml" />
+    <description>empirical Bayes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Hyunsung Kim</copyright><lastBuildDate>Thu, 27 Aug 2026 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
-      <title>functional principal component analysis</title>
-      <link>https://statkim.github.io/hyunsungkim/tag/functional-principal-component-analysis/</link>
+      <title>empirical Bayes</title>
+      <link>https://statkim.github.io/hyunsungkim/tag/empirical-bayes/</link>
     </image>
     
     <item>
@@ -32,31 +32,6 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bootstrap aggregated classification for sparse functional data</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2020-jas_bagfpca/</link>
-      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2020-jas_bagfpca/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --&gt;
 </description>
     </item>
