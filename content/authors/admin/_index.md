@@ -21,6 +21,7 @@ interests:
 - Functional data analysis
 - High-dimensional data analysis
 - Statistical dimension reduction
+- Conformal prediction
 - Non-Euclidean data analysis
 
 # Education to show in About widget
@@ -29,9 +30,6 @@ education:
   - course: Ph.D. in Statistics
     institution: Seoul National University
     year: 2027 (Expected)
-  # - course: Ph.D. Candidate (ABD) in Statistics
-  #   institution: Chung-Ang University
-  #   year: 2023
   - course: M.A. in Statistics
     institution: Chung-Ang University
     year: 2021
