@@ -1,7 +1,7 @@
 ---
 title: Functional principal component analysis for partially observed elliptical process
 
-event: The Korean Statistical Society Summer Conference
+event: 2022 The Korean Statistical Society Summer Conference
 event_url: 
 
 location: Seoul National University
@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: Japan
 
-summary: The Korean Statistical Society Summer Conference
+summary: 2022 The Korean Statistical Society Summer Conference
 abstract: "We present the robust estimators of principal components for partially observed functional data with heavy-tail behaviors, where sample trajectories are collected over individual-specific subinterval(s). We consider the partially sampled trajectories to be the filtered elliptical process by the missing indicator process and propose implementing the robust functional principal component analysis under this framework. The proposed method is computationally efficient and straightforward by estimating the robust correlation function based on the pairwise covariance computation, combined with M-estimation. The asymptotic consistency of the estimators is established under general conditions. The superior performance of our method in the approximation of subspace of the data and reconstruction of full trajectories is demonstrated in simulation studies. We then apply the proposed method to hourly monitored air pollutant data, containing anomaly trajectories with random missing segments."
 
 # Talk start and end times.
