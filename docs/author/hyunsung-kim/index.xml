@@ -5,142 +5,112 @@
     <link>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/</link>
       <atom:link href="https://statkim.github.io/hyunsungkim/author/hyunsung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunsung Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Hyunsung Kim</copyright><lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Hyunsung Kim</copyright><lastBuildDate>Tue, 22 Dec 2026 13:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/avatar_hu011ddfec0ff90e697c4dba1e9a31603c_578739_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://statkim.github.io/hyunsungkim/media/icon_hub7ff0c59a58c82593d3b34e630c36d38_35958_512x512_fill_lanczos_center_3.png</url>
       <title>Hyunsung Kim</title>
       <link>https://statkim.github.io/hyunsungkim/author/hyunsung-kim/</link>
     </image>
     
     <item>
       <title>Two-Sample Projection Test for High-Dimensional Functional Data</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2026-hdfd_proj_test/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2026-hdfd_proj_test/</guid>
+      <link>https://statkim.github.io/hyunsungkim/talk/two-sample-projection-test-for-high-dimensional-functional-data/</link>
+      <pubDate>Tue, 22 Dec 2026 13:15:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/two-sample-projection-test-for-high-dimensional-functional-data/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Conformal Outlier Detection for Multivariate Functional Data</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2025-foutlier_cp/</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2025-foutlier_cp/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
+Slides can be added in a few ways:
 
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Classification of Multivariate Functional Data with an application to ADHD fMRI Data</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2024-fmri_classification/</link>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2024-fmri_classification/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effect of motivated physicians and elderly patients with hypertension or type 2 diabetes mellitus in prepared communities on health behaviours and outcomes: A population-based PS matched retrospective cohort study during five-year follow-up period</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2019-godang/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2019-godang/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Association between the incidence of type 1 diabetes mellitus and tuberculosis or bacillus Calmette-Guérin immunization in children and adolescents</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2021-cau-hospital/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Functional clustering on a sphere via Riemannian functional principal components</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-kcrfc/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 --&gt;
 </description>
     </item>
     
     <item>
       <title>Functional principal component analysis for partially observed elliptical process</title>
-      <link>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://statkim.github.io/hyunsungkim/publication/2022-partial_obs/</guid>
+      <link>https://statkim.github.io/hyunsungkim/talk/functional-principal-component-analysis-for-partially-observed-elliptical-process/</link>
+      <pubDate>Fri, 24 Jun 2022 13:30:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/functional-principal-component-analysis-for-partially-observed-elliptical-process/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 --&gt;
 </description>
     </item>
     
     <item>
-      <title>R package 만들기 2</title>
-      <link>https://statkim.github.io/hyunsungkim/post/2022-07-17-rpackage-2/</link>
+      <title>Robust principal component analysis applicable to partially observed functional data</title>
+      <link>https://statkim.github.io/hyunsungkim/talk/robust-principal-component-analysis-applicable-to-partially-observed-functional-data/</link>
+      <pubDate>Wed, 23 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/robust-principal-component-analysis-applicable-to-partially-observed-functional-data/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust covariance estimation for partially observed functional data</title>
+      <link>https://statkim.github.io/hyunsungkim/talk/robust-covariance-estimation-for-partially-observed-functional-data/</link>
+      <pubDate>Wed, 21 Jul 2021 11:30:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/talk/robust-covariance-estimation-for-partially-observed-functional-data/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+7-rpackage-2/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://statkim.github.io/hyunsungkim/post/2022-07-17-rpackage-2/</guid>
       <description>

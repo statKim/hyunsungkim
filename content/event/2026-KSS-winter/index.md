@@ -22,7 +22,7 @@ date_end: "2026-12-22T13:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2026-12-22T00:00:00Z"
+publishDate: "2026-10-28T00:00:00Z"
 
 authors: [Hyunsung Kim]
 tags: [High-dimensional functional data, two-sample test, projection test, data-splitting, functional variable selection]
