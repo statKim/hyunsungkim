@@ -1,0 +1,29 @@
+{{- /*
+  사용법
+    {{< news >}}                          전체 목록
+    {{< news limit="5" more="news/" >}}   최근 5개 + "All News" 링크
+    {{< news title="News" >}}             제목(h2)을 직접 출력
+*/ -}}
+{{- $title := .Get "title" -}}
+{{- $limit := int (.Get "limit" | default "0") -}}
+{{- $more  := .Get "more" -}}
+{{- $all   := sort site.Data.news.items "date" "desc" -}}
+{{- $items := $all -}}
+{{- if gt $limit 0 }}{{ $items = first $limit $all }}{{ end -}}
+<link rel="stylesheet" href="{{ "css/news.css" | relURL }}">
+<section class="news">
+  {{- with $title }}<h2>{{ . }}</h2>{{ end }}
+  <div class="news-list">
+    {{- range $items }}
+    <div class="news-item">
+      <span class="news-date">{{ dateFormat "Jan 2006" .date }}</span>
+      <span class="news-text">{{ .text | markdownify }}</span>
+    </div>
+    {{- end }}
+  </div>
+  {{- if and $more (gt (len $all) (len $items)) }}
+  <div class="see-all news-more">
+    <a href="{{ $more | relURL }}">See all news <i class="fas fa-angle-right" aria-hidden="true"></i></a>
+  </div>
+  {{- end }}
+</section>

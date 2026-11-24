@@ -132,6 +132,24 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
+      <title>Empirical‐Bayes Functional Principal Component Analysis</title>
+      <link>https://statkim.github.io/hyunsungkim/publication/2027-ebfpca/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/publication/2027-ebfpca/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Two-Sample Projection Test for High-Dimensional Functional Data</title>
       <link>https://statkim.github.io/hyunsungkim/publication/2026-hdfd_proj_test/</link>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
@@ -802,7 +820,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-674193825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-657832914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -812,7 +830,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-674193825&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-657832914&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1447,6 +1465,36 @@ jupyter kernelspec remove &amp;lt;지우고 싶은 kernel명&amp;gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://statkim.github.io/hyunsungkim/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>All News</title>
+      <link>https://statkim.github.io/hyunsungkim/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://statkim.github.io/hyunsungkim/news/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://statkim.github.io/hyunsungkim/hyunsungkim/css/news.css&#34;&gt;
+&lt;section class=&#34;news&#34;&gt;
+  &lt;div class=&#34;news-list&#34;&gt;
+    &lt;div class=&#34;news-item&#34;&gt;
+      &lt;span class=&#34;news-date&#34;&gt;Nov 2026&lt;/span&gt;
+      &lt;span class=&#34;news-text&#34;&gt;I succesfully defended my Ph.D. dissertation, &amp;ldquo;Projection-Based Inference and Data-Adaptive Dimension Reduction for High-Dimensional Functional Data&amp;rdquo;.&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;news-item&#34;&gt;
+      &lt;span class=&#34;news-date&#34;&gt;Oct 2026&lt;/span&gt;
+      &lt;span class=&#34;news-text&#34;&gt;The paper &amp;ldquo;Two-Sample Projection Test for High-Dimensional Functional Data&amp;rdquo; has been accepted for publication in &lt;em&gt;Annals of the Institute of Statistical Mathematics&lt;/em&gt;.&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;news-item&#34;&gt;
+      &lt;span class=&#34;news-date&#34;&gt;Aug 2026&lt;/span&gt;
+      &lt;span class=&#34;news-text&#34;&gt;I am selected to receive a Research Subsidies for Ph.D. Candidates (박사과정생 연구장려금) from NRF of Korea.&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;news-item&#34;&gt;
+      &lt;span class=&#34;news-date&#34;&gt;May 2026&lt;/span&gt;
+      &lt;span class=&#34;news-text&#34;&gt;The paper &amp;ldquo;Conformal Outlier Detection for Multivariate Functional Data&amp;rdquo; has been accepted for publication in &lt;em&gt;Computational Statistics&lt;/em&gt;.&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+</description>
     </item>
     
   </channel>

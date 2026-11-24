@@ -1,0 +1,16 @@
+# 뉴스 항목. 순서와 상관없이 date 기준 최신순으로 자동 정렬됩니다.
+# date는 YYYY-MM-DD 형식, text는 Markdown(링크 등) 사용 가능.
+# text에 콜론(:)이 들어가므로 항상 큰따옴표로 감싸세요.
+
+items:
+  - date: 2026-11-24
+    text: I succesfully defended my Ph.D. dissertation, "Projection-Based Inference and Data-Adaptive Dimension Reduction for High-Dimensional Functional Data".
+
+  - date: 2026-10-01
+    text: The paper "Two-Sample Projection Test for High-Dimensional Functional Data" has been accepted for publication in *Annals of the Institute of Statistical Mathematics*.
+
+  - date: 2026-08-01
+    text: I am selected to receive a Research Subsidies for Ph.D. Candidates (박사과정생 연구장려금) from NRF of Korea.
+
+  - date: 2026-05-01
+    text: The paper "Conformal Outlier Detection for Multivariate Functional Data" has been accepted for publication in *Computational Statistics*.
